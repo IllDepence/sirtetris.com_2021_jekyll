@@ -1,0 +1,20 @@
+---
+layout: base
+---
+
+<section>
+{% assign articles = content | split:"<!-- split -->" | first | split:"<!-- sep -->" %}
+{% for article in articles %}
+  <article>
+  {{ article }}
+  </article>
+{% endfor %}
+</section>
+<aside>
+{% assign asides = content | split:"<!-- split -->" | last | split:"<!-- sep -->" %}
+{% for aside in asides %}
+  <article>
+  {{ aside }}
+  </article>
+{% endfor %}
+</aside>
