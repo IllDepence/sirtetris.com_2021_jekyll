@@ -4,7 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/assets/css/style.css">
-<title>sirtetris/{{ page.title }}</title>
+{% assign path_start = page.path | split:"/" | first %}
+{% assign current_page = path_start | remove:'.md' %}
+{% if current_page == "_posts" %}
+    {% assign current_page = page.aid %}
+{% endif %}
+<title>sirtetris/{{ current_page }}</title>
 <meta name="author" content="Tarek Saier">
 <meta name="robots" content="index,follow">
 </head>
@@ -30,7 +35,14 @@
 </header>
 
 <nav>
-nav
+{% assign nav_items = "blog|hbby|proj|novv|abȣt" | split: "|" %}
+{% for item in nav_items %}
+  {% if item == current_page %}
+    <strong><a href="/{{ item }}.html">{{ item }}</a></strong>
+  {% else %}
+    <a href="/{{ item }}.html">{{ item }}</a>
+  {% endif %}
+{% endfor %}
 </nav>
 
 <main>

@@ -37,4 +37,4 @@ Alternatively use [ProtonMail](https://protonmail.com/) and reach me at <span id
 <!-- sep -->
 
 ## Imprint
-* [this way ...](?c=imprint)
+* [this way ...](/prnt.html)
