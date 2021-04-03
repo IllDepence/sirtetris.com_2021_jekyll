@@ -3,5 +3,10 @@ layout: base
 ---
 
 <section>
-{{ content }}
+{% assign articles = content | split:"<!-- sep -->" %}
+{% for article in articles %}
+  <article>
+  {{ article }}
+  </article>
+{% endfor %}
 </section>

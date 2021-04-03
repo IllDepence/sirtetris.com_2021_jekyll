@@ -20,8 +20,6 @@ Alternatively use [ProtonMail](https://protonmail.com/) and reach me at <span id
 
 <!-- split -->
 
-## LTC
-<span style="font-family: monospace; font-size: 9px;">LUHqiyHCxGdr7VV7rfnp1YSBekbuKxrRXf</span>
 ## DOGE
 <span style="font-family: monospace; font-size: 9px;">DCBZu7SZEQzVhNwiv9bdiSEiZPnoWqXX3S</span>
 
