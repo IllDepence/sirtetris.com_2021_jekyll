@@ -245,26 +245,26 @@ margin-bottom: 50px;
 overflow: hidden;
 }
 
-div.innercontent_b h1 {
+article:only-child h1 {
 padding: 5px;
 color: #434343;
 border-bottom: solid 1px #006378;
 }
 
-div.innercontent_b h1 a {
+article:only-child h1 a {
 color: #434343;
 /*color: #fff;*/
 }
 
-div.innercontent_b > p:first-of-type {
+article:only-child > p:first-of-type {
 margin-top: 7px;
 }
 
-div.innercontent_b > p:last-of-type {
+article:only-child > p:last-of-type {
 margin-bottom: 7px;
 }
 
-div.innercontent_b div.footline {
+div.footline {
 padding: 5px 0px 0px 0px;
 border-top: solid 1px #006378;
 overflow: hidden;

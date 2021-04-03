@@ -15,12 +15,23 @@ layout: fill
 {% endfor %}
 </div>
 
-<p style="margin: 0;"><a style="display: block; text-align: center; background-color: #dbdbdb;" href="/blog_all.html">show all</a></p>
+<p style="margin: 0;"><a style="display: block; text-align: center; background-color: #dbdbdb;" href="/blog/all.html">show all {{ site.posts | size }}</a></p>
 
 
 <!-- sep -->
 
-# Tags
+# Series
 
-{% assign tags_sorted = site.tags | sort %}
-{% for tag in tags_sorted %}{{ tag[0] }}, {% endfor %}
+<ul>
+{% assign series_tags = "MYJ15|NII17" | split: "|" %}
+{% assign series_titles = "A year at 松山大学|Nine months at the 国立情報学研究所" | split: "|" %}
+{% for series_tag in series_tags %}
+  {% assign post_count = 0 %}
+  {% for post in site.posts %}
+    {% if post.tags contains series_tag %}
+      {% assign post_count = post_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  <li><a href="/blog/{{ series_tag }}.html">{{ series_titles[forloop.index0] }}</a> ({{ post_count }} posts)</li>
+{% endfor %}
+</ul>
