@@ -15,7 +15,7 @@ layout: fill
 {% endfor %}
 </div>
 
-<p style="margin: 0;"><a style="display: block; text-align: center; background-color: #dbdbdb;" href="/blog/all.html">show all {{ site.posts | size }}</a></p>
+<p style="margin: 0;"><a style="display: block; text-align: center; background-color: #dbdbdb;" href="/blag">show all {{ site.posts | size }}</a></p>
 
 
 <!-- sep -->
@@ -30,6 +30,6 @@ layout: fill
       {% assign post_count = post_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  <li><a href="/blog/{{ series.tag }}.html">{{ series.title }}</a> ({{ post_count }} posts)</li>
+  <li><a href="/series.tag">{{ series.title }}</a> ({{ post_count }} posts)</li>
 {% endfor %}
 </ul>

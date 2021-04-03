@@ -49,7 +49,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * PC: [Tagaini Jisho](http://www.tagaini.net/)
     * Web: [goo辞書](https://dictionary.goo.ne.jp/), [WWWJDIC](http://nihongo.monash.edu/cgi-bin/wwwjdic), [Denshi Jisho](http://jisho.org/)
     * Browser plugin for [Firefox](http://rikaichan.mozdev.org/) and [Chrome](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)
-    * Android: [monolingual & offline](?a=bbcb7e53)
+    * Android: [monolingual & offline](/bbcb7e53)
 * Examples sentences and collocations:
     * [Tsukuba Web Corpus](http://nlt.tsukuba.lagoinst.info/)
     * [Balanced Corpus of Contemporary Written Japanese](http://nlb.ninjal.ac.jp/)
@@ -59,7 +59,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 * [minimum font size for Japanese text](http://moc.sirtetris.com/enlargeJapanese.user.js) (user script)
 * [GNU Unifont](http://unifoundry.com/unifont.html) (useful for graphemes/radicals)
 <!--* Wallpaper for [dates](assets/img/interests/dates_anime.png), [time](assets/img/interests/time_anime.png), [timespans](assets/img/interests/timespans_anime.png), [casual grammar](assets/img/interests/casuals_anime.png), [indefinite pronouns](assets/img/interests/indefinite_pronouns_anime.png)  -->
-* [Kana input without IM](?a=079cf21f) (Linux/BSD)
+* [Kana input without IM](/079cf21f) (Linux/BSD)
 
 #### Absorb
 
@@ -100,7 +100,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * [TwiPla](https://twipla.jp/)
 
 ‌  
-My personal Japanese progress has it's own place in the [projects section](?c=proj).
+My personal Japanese progress has it's own place in the [projects section](/proj).
 
 <!-- sep -->
 
@@ -109,7 +109,7 @@ My personal Japanese progress has it's own place in the [projects section](?c=pr
 
 ![](assets/img/interests/parkour.jpg)
 
-Just look for people in your area doing parkour. In [my experience](?a=5fd38d56) such groups are extremely supportive towards newcomers. If you can't find anyone to train with, start on your own — you might [find followers](assets/img/interests/parkour2.jpg) soon. :D
+Just look for people in your area doing parkour. In [my experience](/5fd38d56) such groups are extremely supportive towards newcomers. If you can't find anyone to train with, start on your own — you might [find followers](assets/img/interests/parkour2.jpg) soon. :D
 
 To get an idea of what parkour is, watch [People in Motion](https://www.youtube.com/watch?v=QH09YCtpKaw). tl;dw: it's playing with one's environment by moving around.
 

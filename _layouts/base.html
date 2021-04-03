@@ -39,9 +39,9 @@
   {% assign nav_items = "blog|hobby|projects|now|about" | split: "|" %}
   {% for item in nav_items %}
     {% if item == current_page %}
-      <a href="/{{ item }}.html" class="active">{{ item }}</a>
+      <a href="/{{ item }}" class="active">{{ item }}</a>
     {% else %}
-      <a href="/{{ item }}.html">{{ item }}</a>
+      <a href="/{{ item }}">{{ item }}</a>
     {% endif %}
   {% endfor %}
   </nav>

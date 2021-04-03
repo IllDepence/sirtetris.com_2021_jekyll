@@ -3,7 +3,7 @@ layout: split
 ---
 
 # About
-Hi. I’m Tarek. On this page I write about [projects](?c=proj), [hobbies](?c=hbby), and [recent things](?c=blog).
+Hi. I’m Tarek. On this page I write about [projects](/projects), [hobbies](/hobby), and [recent things](/blog).
 
 # Contact
 🔓 The easiest way to contact me is to send an e-mail to <span id="inb4mail" title="you can't highlight and copy this, sorry"></span>.  
@@ -30,9 +30,9 @@ Alternatively use [ProtonMail](https://protonmail.com/) and reach me at <span id
 * [Duc-Ha](http://coldbloodedness.blogspot.com)
 <!-- * [Eric](http://erics.bplaced.de/) domain expired? -->
 <!-- * [Michael](http://www.goodchapy.com/) domain expired? -->
-* [Wolfgang](http://vehk.de/)
+<!-- * [Wolfgang](http://vehk.de/) domain expired? -->
 
 <!-- sep -->
 
 ## Imprint
-* [this way ...](/prnt.html)
+* [this way ...](/imprint)
