@@ -23,15 +23,13 @@ layout: fill
 # Series
 
 <ul>
-{% assign series_tags = "MYJ15|NII17" | split: "|" %}
-{% assign series_titles = "A year at 松山大学|Nine months at the 国立情報学研究所" | split: "|" %}
-{% for series_tag in series_tags %}
+{% for series in site.data.blog_series.series %}
   {% assign post_count = 0 %}
   {% for post in site.posts %}
-    {% if post.tags contains series_tag %}
+    {% if post.tags contains series.tag %}
       {% assign post_count = post_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  <li><a href="/blog/{{ series_tag }}.html">{{ series_titles[forloop.index0] }}</a> ({{ post_count }} posts)</li>
+  <li><a href="/blog/{{ series.tag }}.html">{{ series.title }}</a> ({{ post_count }} posts)</li>
 {% endfor %}
 </ul>
