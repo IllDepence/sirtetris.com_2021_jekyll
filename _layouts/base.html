@@ -34,24 +34,30 @@
 </svg>
 </header>
 
-<nav>
-{% assign nav_items = "blog|hbby|proj|novv|abȣt" | split: "|" %}
-{% for item in nav_items %}
-  {% if item == current_page %}
-    <strong><a href="/{{ item }}.html">{{ item }}</a></strong>
-  {% else %}
-    <a href="/{{ item }}.html">{{ item }}</a>
-  {% endif %}
-{% endfor %}
-</nav>
+{% if current_page != "index" %}
+  <nav>
+  {% assign nav_items = "blog|hobby|projects|now|about" | split: "|" %}
+  {% for item in nav_items %}
+    {% if item == current_page %}
+      <a href="/{{ item }}.html" class="active">{{ item }}</a>
+    {% else %}
+      <a href="/{{ item }}.html">{{ item }}</a>
+    {% endif %}
+  {% endfor %}
+  </nav>
+{% endif %}
 
 <main>
 {{ content }}
 </main>
 
-<footer>
-<a href="https://webring.xxiivv.com/#random" target="_blank"><img src="https://webring.xxiivv.com/icon.black.svg" style="display: block; margin: auto; width: 30px; height: 30px;"/></a>
-</footer>
+{% if current_page != "index" %}
+  <footer>
+  <a href="https://webring.xxiivv.com/#random" target="_blank">
+    <img src="https://webring.xxiivv.com/icon.black.svg" style="display: block; margin: auto; width: 30px; height: 30px;"/>
+  </a>
+  </footer>
+{% endif %}
 
 </body>
 </html>

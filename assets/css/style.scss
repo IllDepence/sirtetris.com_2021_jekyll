@@ -11,7 +11,7 @@ html {
     padding: 0;
     border: 0;
     box-sizing: border-box;
-    &:before, &:after {
+    &::before, &::after {
         box-sizing: border-box;
     }
 }
@@ -98,7 +98,7 @@ counter-increment: foo;
 display: table-row;
 }
 
-ul li:before {
+ul li::before {
 content: "\00BB\00A0";
 text-align: right;
 display: table-cell;
@@ -138,7 +138,64 @@ header {
 
 nav {
     margin: $content-margin;
-    width: $content-width;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    padding-bottom: 3px;
+    border-bottom: solid 1px #a3a3a3;
+    border-top: solid 1px #a3a3a3;
+    a {
+        font-size: 1.2em;
+        &::before, &::after {
+            color: #a4a4a4;
+        }
+        &:nth-child(1) {
+            &::before, &::after {
+                opacity: 0;
+                content: "多";
+            }
+            &:hover::before, &:hover::after,
+            &.active::before, &.active::after {
+                opacity: 0.6;
+                content: "多";
+            }
+        }
+        &:nth-child(2) {
+            &::before, &::after {
+                opacity: 0;
+                content: "趣";
+            }
+            &:hover::before, &:hover::after,
+            &.active::before, &.active::after {
+                opacity: 0.6;
+                content: "趣";
+            }
+        }
+        &:nth-child(3) {
+            &::before, &::after {
+                opacity: 0;
+                content: "味";
+            }
+            &:hover::before, &:hover::after,
+            &.active::before, &.active::after {
+                opacity: 0.6;
+                content: "味";
+            }
+        }
+        &:nth-child(n+4) {
+            &::before, &::after {
+                opacity: 0;
+                content: "丸";
+            }
+            &:hover::before, &:hover::after,
+            &.active::before, &.active::after {
+                opacity: 0.6;
+                content: "丸";
+            }
+        }
+    }
 }
 
 main {
@@ -148,30 +205,30 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-        & > section {
-            width: 701px;
-            border-right: solid 1px #a3a3a3;
-            article {
-                margin-bottom: 50px;
-            }
-            article p {
-                margin-right: 5px;
-            }
+    & > section {
+        width: 701px;
+        border-right: solid 1px #a3a3a3;
+        article {
+            margin-bottom: 50px;
         }
-        & > aside {
-            width: 175px;
-            article {
-                margin-bottom: 25px;
-            }
-            article:only-child {
-                /* assume its a navigation */
-                position: fixed;
-            }
+        article p {
+            margin-right: 5px;
         }
-        & > section:only-child {
-            width: $content-width;
-            border: none;
+    }
+    & > aside {
+        width: 175px;
+        article {
+            margin-bottom: 25px;
         }
+        article:only-child {
+            /* assume its a navigation */
+            position: fixed;
+        }
+    }
+    & > section:only-child {
+        width: $content-width;
+        border: none;
+    }
 }
 
 footer {
@@ -286,19 +343,19 @@ pre > code {
 color: #eeeeee;
 }
 
-#inb4mail:after {
+#inb4mail::after {
 content: "\0040\0067\006D\0061\0069\006C\002E\0063\006F\006D";
 }
 
-#inb4mail:before {
+#inb4mail::before {
 content: "\0074\0061\0072\0065\006B\0073\0061\0069\0065\0072";
 }
 
-#inb4mail2:after {
+#inb4mail2::after {
 content: "\006F\006E\006D\0061\0069\006C\002E\0063\006F\006D";
 }
 
-#inb4mail2:before {
+#inb4mail2::before {
 content: "\0073\0061\0069\0065\0072\0040\0070\0072\006F\0074";
 }
 
@@ -368,7 +425,7 @@ cursor: pointer;
 .mixlang:hover span.swap span {
   display: none;
 }
-.mixlang:hover span.swap:after {
+.mixlang:hover span.swap::after {
   background: #e3e9eb;
   border-radius: 3px;
   padding: 2px;
@@ -432,45 +489,64 @@ outline: none;
 
 /* bending the knee to mobile dominance */
 @media only screen and (max-width: 932px) {
-#content {
-width: 308px;
+
+$content-width-mobile: 308px;
+
+header {
+    width: $content-width-mobile;
 }
 
-#footer {
-width: 308px;
-height: 132px;
+nav {
+    width: $content-width-mobile;
+    a {
+        font-size: 0.9em;
+    }
 }
 
-div.innercontent_l,
-div.innercontent_r,
-div.innercontent_b {
-width: 308px;
-margin-bottom: 27px;
+main {
+    width: $content-width-mobile;
+    display: flex;
+    flex-direction: column;
+    & > section {
+        width: $content-width-mobile;
+        border-right: none;
+        article {
+            margin-bottom: 27px;
+            img {
+                max-width: $content-width-mobile;
+            }
+        }
+    }
+    & > aside {
+        width: $content-width-mobile;
+        article {
+            margin-bottom: 27px;
+            img {
+                max-width: $content-width-mobile;
+            }
+        }
+        article:only-child {
+            /* assume its a navigation */
+            position: fixed;
+        }
+    }
+    & > section:only-child {
+        width: $content-width-mobile;
+        border: none;
+    }
 }
 
-div#floatbox_l,
-div#floatbox_r {
-float: none;
-border: none;
+footer {
+    width: $content-width-mobile;
+    height: 132px;
 }
 
-div.innercontent_l img,
-div.innercontent_r img,
-div.innercontent_b img{
-max-width: 308px;
-}
-
-div.innercontent_r_fixed {
-position: initial;
-top: initial;
-left: initial;
-margin-left: initial;
-}
-
-div.imgfloatleft img,
-div.imgfloatright img {
-float: none;
-max-width: 308px;
+aside article:only-child {
+    /* assume its a navigation */
+    position: initial;
+    top: initial;
+    left: initial;
+    margin-left: initial;
 }
 
 /* kanji progress graph special rule */
@@ -478,7 +554,7 @@ div#graph * {
 display: none;
 }
 
-div#graph:before {
+div#graph::before {
 content: "Didn't implement the graph for mobile.\Aᕕ( ᐛ )ᕗ\A‌‌‌";
 white-space: pre;
 }
