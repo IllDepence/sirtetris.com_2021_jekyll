@@ -105,7 +105,7 @@ Timeline |<!-- this makes the table work -->
 <!-- sep -->
 
 # I have a website!
-*It's a clunky pile of Python but I don't care. :)*
+*It's a clunky pile of statically generated HTML but I don't care. :)*
 
 ![](assets/img/projects/websites.png)
 
