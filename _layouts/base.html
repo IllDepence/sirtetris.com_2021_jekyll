@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/assets/css/style.css">
+<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
 {% assign path_start = page.path | split:"/" | first %}
 {% assign current_page = path_start | remove:'.md' %}
 {% if current_page == "_posts" %}

@@ -1,4 +1,7 @@
+url: https://sirtetris.com
+baseurl: 
 permalink: /:title
+
 collections:
   posts:
     output: true
@@ -12,3 +15,5 @@ include:
 exclude:
     - _series_by_fn.md
     - _maintenance
+    - COPYING
+    - README
