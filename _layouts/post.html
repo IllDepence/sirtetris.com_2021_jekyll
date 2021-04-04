@@ -3,7 +3,9 @@ layout: fill
 ---
 
 <h1>{{ page.title }}</h1>
-<img src="/assets/img/blog/{{ page.img }}">
+{% if page.img %}
+    <img src="/assets/img/blog/{{ page.img }}">
+{% endif %}
 {{ content }}
 <div class="footline">
 <!-- <div class="tags"><p><strong>tags: {% for tag in page.tags %}<a href="todo">{{ tag }}</a> {% endfor %} </strong></p></div> -->

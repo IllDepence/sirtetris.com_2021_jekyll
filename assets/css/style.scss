@@ -228,6 +228,27 @@ main {
     & > section:only-child {
         width: $content-width;
         border: none;
+
+        & > article:only-child {
+            h1 {
+                padding: 5px;
+                color: #434343;
+                border-bottom: solid 1px #006378;
+                a {
+                    color: #434343;
+                }
+            }
+            & > p:first-of-type {
+                margin-top: 7px;
+            }
+            & > p:last-of-type {
+                margin-bottom: 7px;
+            }
+            & > img:first-of-type {
+                float: right;
+                margin: 0 0 7px 15px;
+            }
+        }
     }
 }
 
@@ -243,25 +264,6 @@ footer {
 div.innercontent_b {
 margin-bottom: 50px;
 overflow: hidden;
-}
-
-article:only-child h1 {
-padding: 5px;
-color: #434343;
-border-bottom: solid 1px #006378;
-}
-
-article:only-child h1 a {
-color: #434343;
-/*color: #fff;*/
-}
-
-article:only-child > p:first-of-type {
-margin-top: 7px;
-}
-
-article:only-child > p:last-of-type {
-margin-bottom: 7px;
 }
 
 div.footline {
@@ -297,7 +299,6 @@ background-color: #434343;
 padding: 5px;
 display: block;
 margin: 10px 10px 10px 0px;
-border-left: solid 20px #f7f7f7;
 white-space: pre-wrap;
 overflow: hidden;
 }
@@ -309,18 +310,6 @@ padding: 0px 2px 0px 2px;
 
 div.imgsrc > p {
 font-size: 1rem;
-}
-
-div.imgfloatleft {
-float: left;
-margin-right: 10px;
-padding-right: 0;
-}
-
-div.imgfloatright {
-float: right;
-margin-left: 10px;
-padding-left: 0;
 }
 
 div.imgdropdown {

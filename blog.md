@@ -25,11 +25,17 @@ layout: fill
 <ul>
 {% for series in site.data.blog_series.series %}
   {% assign post_count = 0 %}
+  {% assign start = nil %}
+  {% assign end = nil %}
   {% for post in site.posts %}
     {% if post.tags contains series.tag %}
       {% assign post_count = post_count | plus: 1 %}
+      {% if end == nil %}
+        {% assign end = post.date %}
+      {% endif %}
+      {% assign start = post.date %}
     {% endif %}
   {% endfor %}
-  <li><a href="/s/{{ series.tag }}">{{ series.title }}</a> ({{ post_count }} posts)</li>
+  <li><a href="/s/{{ series.tag }}">{{ series.title }}</a> ({{ post_count }} posts) {{ start | date: "%b %Y" }} – {{ end | date: "%b %Y" }}</li>
 {% endfor %}
 </ul>
