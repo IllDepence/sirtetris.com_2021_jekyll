@@ -1,1 +1,8 @@
 permalink: /:title
+collections:
+  posts:
+    output: true
+    permalink: /a/:title
+
+exclude:
+    - _series_by_fn.md
