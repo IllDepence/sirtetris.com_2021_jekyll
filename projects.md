@@ -110,7 +110,7 @@ Timeline |<!-- this makes the table work -->
 ![](assets/img/projects/websites.png)
 
 Started doing this in 2005. Content changes over time as do my interests.
-<script src="assets/pages/kanjigraph.js"></script>
+<script src="assets/img/projects/kanjigraph.js"></script>
 
 <!-- split -->
 

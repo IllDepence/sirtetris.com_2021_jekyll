@@ -4,8 +4,12 @@ layout: fill
 
 <h1>{{ page.title }}</h1>
 {% if page.img %}
-    <img src="/assets/img/blog/{{ page.img }}">
+    <div class="blogimg"><img src="/assets/img/blog/{{ page.img }}">
 {% endif %}
+{% if page.imgsrcs | size > 0 %}
+<div class="imgsrc"><p>{% for source in page.imgsrcs %}{% if forloop.index > 1 %},&nbsp;{% endif %}<a href="{{ source }}">source</a>{% endfor %}</p></div>
+{% endif %}
+</div>
 {{ content }}
 <div class="footline">
 <!-- <div class="tags"><p><strong>tags: {% for tag in page.tags %}<a href="todo">{{ tag }}</a> {% endfor %} </strong></p></div> -->

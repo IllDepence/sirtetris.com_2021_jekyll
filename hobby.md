@@ -140,7 +140,7 @@ An English version of the rules of kyōgi karuta can be found [here](http://karu
 * [Hyakunin Isshu overview with english translations](http://etext.virginia.edu/japanese/hyakunin/index.html)
 
 To get an idea of how kyōgi karuta looks like:  
-<!-- ytdd:Highlights from the 2014 championship final:HUbXBcD2m6E -->
+[Highlights from the 2014 championship final](https://www.youtube.com/watch?v=HUbXBcD2m6E) -->
 
 Even more goodies:
 
@@ -165,9 +165,10 @@ Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyO
 I, personally, started penspinning in 2007 and actively pursued it — i.e. took my time to practice, look out for new tricks to learn, etc. — for maybe a year and a half. After that it's been casual ever since. I barely try or practice new stuff ... but it's still a lot of fun to doing it and I don't plan to stop. :)
 
 #### Some of my recordings
-<!-- ytdd:BakFall Session 3:DHDyYK-nPIA -->
-<!-- ytdd:Copy clip:shhumscxa0s -->
-<!-- ytdd:Freestyle:mGnMcw7IM9I -->
+
+* [BakFall Session 3](https://www.youtube.com/watch?v=DHDyYK-nPIA)
+* [Copy clip](https://www.youtube.com/watch?v=shhumscxa0s)
+* [Freestyle](https://www.youtube.com/watch?v=mGnMcw7IM9I)
 
 <!-- sep -->
 
@@ -231,19 +232,14 @@ Further places to look for interesting content include [TOOOL](http://toool.us/)
 
 ![](assets/img/interests/agdq.jpg)
 
-As far as I can tell the places to go to for speedrunning content are the [Speed Demos Archive](http://speeddemosarchive.com/) and [Speed&shy;Runs&shy;Live](http://www.speedrunslive.com/). If you want to get a general idea of what a speedrun is and what a speedrunner does, take a look at:  
-<!-- ytdd:Portal Done Pro:W1U5RUVENNE -->
-*and* the [Portal Done Pro - Commentary Video](https://www.youtube.com/playlist?list=PL359B764A0A3B8188). Note that this run does not comply with the rules of SDA and is not listed there. Nonetheless does it give a nice glimpse into the world of speedrunning. A very entertaining way to learn a bit more can be following one of SDA's [marathons](http://marathon.speeddemosarchive.com/), where a group of speedrunners plays through a ton of games throughout several days. Most of them comment on what they are doing while playing, so you get an insight into what the key techniques are for running a particular game.
+As far as I can tell the places to go to for speedrunning content are the [Speed Demos Archive](http://speeddemosarchive.com/) and [Speed&shy;Runs&shy;Live](http://www.speedrunslive.com/). If you want to get a general idea of what a speedrun is and what a speedrunner does, take a look at [Portal Done Pro](https://www.youtube.com/watch?v=W1U5RUVENNE) *and* the [Portal Done Pro - Commentary Video](https://www.youtube.com/playlist?list=PL359B764A0A3B8188). Note that this run does not comply with the rules of SDA and is not listed there. Nonetheless does it give a nice glimpse into the world of speedrunning. A very entertaining way to learn a bit more can be following one of SDA's [marathons](http://marathon.speeddemosarchive.com/), where a group of speedrunners plays through a ton of games throughout several days. Most of them comment on what they are doing while playing, so you get an insight into what the key techniques are for running a particular game.
 
 As opposed to speedruns gathered at SDA, there are also runs called TAS — tool-assisted speedruns. I don't know a lot about them, but I guess [TASVideos](http://tasvideos.org/) is a good resource to start with.
 
-I myself never did serious speedrunning. Further down some casual (and old) stuff.
+I myself never did serious speedrunning. Casual (and old) stuff:
 
-#### Portal
-<!-- ytdd:Testchamber 14 done in 4 seconds:ocARZ9qdx_I -->
-
-#### Half-Life
-<!-- ytdd:Hazard Course done in 3&colon;23min:2gG5PCDWQJ4 -->
+* [Portal Testchamber 14 done in 4 seconds](https://www.youtube.com/watch?v=ocARZ9qdx_I)
+* [Half Life Hazard Course done in 3:23](https://www.youtube.com/watch?v=2gG5PCDWQJ4)
 
 <!-- sep -->
 
