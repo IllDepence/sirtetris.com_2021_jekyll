@@ -6,7 +6,8 @@ layout: fill
 {% if page.img %}
     <div class="blogimg"><img src="/assets/img/blog/{{ page.img }}">
 {% endif %}
-{% if page.imgsrcs | size > 0 %}
+{% assign num_imgsrcs = page.imgsrcs | size %}
+{% if num_imgsrcs > 0 %}
 <div class="imgsrc"><p>{% for source in page.imgsrcs %}{% if forloop.index > 1 %},&nbsp;{% endif %}<a href="{{ source }}">source</a>{% endfor %}</p></div>
 {% endif %}
 </div>

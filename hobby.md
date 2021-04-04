@@ -264,7 +264,7 @@ No connection to licensing and legality here. Just fun content if it's your cup 
 
 Example AMVs:
 
-<!-- <div style="overflow-x:auto"><!__ div for mobile device special treatment__> breaks table in Jekyll -->
+<div style="overflow-x:auto" markdown="1"><!-- div for mobile device special treatment, markdown="1" attribute is Kramdown specific: https://kramdown.gettalong.org/syntax.html#html-blocks -->
 
 Creator | Title | Source | Download | YouTube
 :-|:-|:-|:-:|:-:
@@ -284,7 +284,7 @@ Padre | Whack | One Punch Man | [💾](http://amvnews.ru/index.php?go=Files&in=v
 seriy | Affective Schoolgirls | Nichijou | [💾](http://amvnews.ru/index.php?go=Files&in=view&id=4569) | [▶](https://www.youtube.com/watch?v=2uHRi67mlsc)
 Umika, ZEVS1993 | Our Tapes | mixed | [💾](http://amvnews.ru/index.php?go=Files&in=view&id=4470) | [▶](https://www.youtube.com/watch?v=Z6IL_YVNBDQ)
 
-<!-- </div>‌ breaks table in Jekyll -->
+</div>‌
 
 <!-- sep -->
 
