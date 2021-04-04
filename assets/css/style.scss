@@ -573,3 +573,31 @@ opacity: 0.2;
 }
 
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ddd;
+        background-color: #222;
+    }
+    #inb4mail, #inb4mail2 {
+        background-color: #444;
+    }
+    p.blog_showall_bar > a {
+        background-color: #333;
+    }
+    .mixlang span.swap span {
+        background: linear-gradient(to right, #89a2a7 3px, #89a2a7 3px, #384c53 3px);
+    }
+    .mixlang:hover span.swap::after {
+      background: #384c53;
+    }
+    div.imgsrc {
+        background-color: #333;
+    }
+    main > section:only-child  > article:only-child h1 {
+        color: #999;
+    }
+    code {
+        background-color: #434343;
+    }
+}
