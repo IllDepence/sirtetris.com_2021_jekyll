@@ -238,7 +238,9 @@ main {
                     color: #434343;
                 }
             }
-            & > p:first-of-type {
+            & > p:first-of-type,
+            & > h3:first-of-type,
+            & > h4:first-of-type {
                 margin-top: 7px;
             }
             & > p:last-of-type {

@@ -4,5 +4,11 @@ collections:
     output: true
     permalink: /a/:title
 
+include:
+    - ".htaccess"
+    - ".XCompose"
+    - ".Xmodmap"
+
 exclude:
     - _series_by_fn.md
+    - _maintenance
