@@ -53,6 +53,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 * Examples sentences and collocations:
     * [Tsukuba Web Corpus](http://nlt.tsukuba.lagoinst.info/)
     * [Balanced Corpus of Contemporary Written Japanese](http://nlb.ninjal.ac.jp/)
+* [YouGlish](https://youglish.com/japanese)
 * [News in Slow Japanese](http://newsinslowjapanese.com/home/) (listening practice)
 * [KanjiTomo](http://www.kanjitomo.net/) (identify Japanese characters from images)
 * [JLPT kanji check](http://moc.sirtetris.com/jlptkanjicheck/)
@@ -67,25 +68,31 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * [Tofugu](https://www.youtube.com/user/tofugu)
     * [Rachel & Jun](https://www.youtube.com/user/MyHusbandisJapanese)
     * [Hikosaemon](https://www.youtube.com/user/Hikosaemon)
-    * [BusanKevin](https://www.youtube.com/user/BusanKevin) / [jlandkev](https://www.youtube.com/user/jlandkev)
-    * [Gimmeabreakman](https://www.youtube.com/gimmeabreakman) / [Gimmeaflakeman](https://www.youtube.com/user/Gimmeaflakeman)
-    * [ミカエラ](https://www.youtube.com/user/Ciaela) / [Micaela Braithwaite](https://www.youtube.com/user/mikaeradesu)
+<!--    * [BusanKevin](https://www.youtube.com/user/BusanKevin) / [jlandkev](https://www.youtube.com/user/jlandkev) -->
+<!--    * [Gimmeabreakman](https://www.youtube.com/gimmeabreakman) / [Gimmeaflakeman](https://www.youtube.com/user/Gimmeaflakeman) -->
+<!--    * [ミカエラ](https://www.youtube.com/user/Ciaela) / [Micaela Braithwaite](https://www.youtube.com/user/mikaeradesu) -->
 * In Japanese
     * [Dogen](https://www.youtube.com/user/Dogen)
-    * [コウイチTV](https://www.youtube.com/user/kouichitv)
-    * [さーちゃんネル](https://www.youtube.com/channel/UCcDZtKh3a7EiscYgbr_468w)
-    * [backspace.fm](http://backspace.fm/)
     * [rebuild.fm](https://rebuild.fm/)
-    * [学生のイドバタ会](https://radiopublic.com/-8Xow2k)
+    * [ゆる言語学ラジオ](https://radio.ken-horimoto.com/) / [YT](https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg)
+    * [researchat.fm](https://researchat.fm/)
+    * [backspace.fm](http://backspace.fm/)
+<!--    * [学生のイドバタ会](https://radiopublic.com/-8Xow2k) -->
     * [GINプロジェクト](https://www.youtube.com/channel/UCQ1LG3Z-Ot6MdxooyzQRYBA)
     * [国立国語研究所](https://twitter.com/kokugoken)
     * [文学YouTuberベル](https://www.youtube.com/channel/UCL4QAojeGy6CJ9R2PwmlmJQ)
+    * [コウイチTV](https://www.youtube.com/user/kouichitv)
+    * [さーちゃんネル](https://www.youtube.com/channel/UCcDZtKh3a7EiscYgbr_468w)
 <!--    * [ご当地ざっくり10秒インタビュー](https://www.youtube.com/user/gotouchi10sec) -->
     * [無駄づくり MUDAZUKURI -Wasted Creation-](https://www.youtube.com/user/mudadukuri)
     * [木下ゆうか Yuka Kinoshita](https://www.youtube.com/user/kinoyuu0204)
-    * [ARI OR ALI](https://www.youtube.com/user/ARIORALI) / [Ari Keita](https://www.youtube.com/user/ARIKEITA113)
+<!--    * [ARI OR ALI](https://www.youtube.com/user/ARIORALI) / [Ari Keita](https://www.youtube.com/user/ARIKEITA113) -->
     * [nihongonomori joey](https://www.youtube.com/user/freejapaneselessons3)
     * [Google Japan](https://www.youtube.com/user/googlejapan)
+    * [@hideki\_1231](https://www.tiktok.com/@hideki_1231)
+    * [@naokorisu](https://www.tiktok.com/@naokorisu)
+    * [@burrihi\_gty\_ik](https://www.tiktok.com/@burrihi_gty_ik)
+    * [@takeshibengo](https://www.tiktok.com/@takeshibengo)
 <!--    * [Japanese-Subtitles](http://jpsubbers.web44.net/Japanese-Subtitles/)-->
 
 ### Interact

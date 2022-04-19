@@ -64,6 +64,10 @@ Timeline |<!-- this makes the table work -->
 18/07/01 | took the JLPT N1 (result: 111/180)
 19/06/16 | took the 漢検５級 and ４級 (results: 165/200 and 146/200)
 19/09/28 | [2100 kanji](/a/70125fa1)
+21/06/04 | [100 recognition only kanji](/a/5797082c)
+21/10/02 | [200 recognition only kanji](/a/579b082d)
+22/01/22 | [300 recognition only kanji](/a/579f082e)
+22/04/10 | [400 recognition only kanji](/a/57a3082f)
 
 <div class="hr"></div>
 ## &gt; Side quest: explore the country

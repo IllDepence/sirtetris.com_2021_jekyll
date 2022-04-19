@@ -10,7 +10,9 @@ layout: split
     * [doing a PhD](https://sirtetris.github.io)
     * bit of programming for [NII](https://www.nii.ac.jp) once in a blue moon
 * **Pastime**
-    * reading Japanese books (currently:『同時通訳はやめられない』)
+    * reading Japanese books (currently:『活版印刷三日月堂 空色の冊子』)
+    * listening to Japanese podcasts (most recent addition: 『[ゆる言語学ラジオ](https://radio.ken-horimoto.com/)』
+    * organizing a [monthly meetup](https://japanstammtisch.github.io/) for Japanese German exchange
 
 ‌
 
