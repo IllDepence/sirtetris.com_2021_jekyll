@@ -38,6 +38,55 @@ I started off with three beginner level Japanese courses offered by the language
 <div class="hr"></div>
 ## &gt; Main quest: learn the language
 ##### <br>
+### Reading progress
+##### <br>
+
+<table id="bookshelf"><tr><th>Plan to read</th><th>Reading / Paused</th><th>Read</th></tr>
+<tr style="vertical-align: bottom;"><td style="width: 230px;"><ol reversed>
+
+<li>「その他の外国文学」の翻訳者</li>
+<li>知るほどに深くなる漢字のツボ</li>
+<li>漢字の成り立ち</li>
+<li>都道府県の持ちかた</li>
+<li>活版印刷三日月堂 小さな折り紙</li>
+<li>活字が消えた日</li>
+<li>文系と理系はなぜ分かれたのか</li>
+<li>辞書編集、三十七年</li>
+<li>教室内カースト</li>
+<li>印刷に恋して</li>
+
+</ol></td><td style="width: 230px;"><ol reversed>
+
+<li>活版印刷三日月堂 空色の冊子</li>
+<li>僕とツンデレとハイデガー</li>
+<li>鳩居堂の日本のしきたり 豆知識</li>
+<li>「舞姫」の主人公をバンカラとアフリカ人がボコボコにする最高の小説の世界が明治に存在したので20万字くらいかけて紹介する本</li>
+<li>ユニコード戦記</li>
+<li>日本語雑記帳</li>
+
+</ol></td><td style="width: 230px;"><ol reversed>
+
+<li>日本語の「大疑問」</li>
+<li>新解さんの謎</li>
+<li>絶滅危惧動作図鑑</li>
+<li>ようこそ保健室へ</li>
+<li>コンビニ人間</li>
+<li>活版印刷三日月堂 雲の日記帳</li>
+<li>羅生門</li>
+<li>活版印刷三日月堂 庭のアルバム </li>
+<li>活版印刷三日月堂 海からの手紙</li>
+<li>同時通訳はやめられない</li>
+<li>日本語びいき</li>
+<li>活版印刷三日月堂 星たちの栞</li>
+<li>字幕屋に「、」はない</li>
+<li>世界の文字</li>
+<li>猫の事務所</li>
+<li>九州は横浜のどこですか？下巻</li>
+<li>九州は横浜のどこですか？上巻</li>
+
+</ol></td></tr></table>
+
+##### <br>
 ### Kanji progress<span id="jp-progress"></span>
 <div id="graph"><img src="assets/img/projects/kanjistats.png" alt="kanjistats.png" /></div>
 ##### <br>
