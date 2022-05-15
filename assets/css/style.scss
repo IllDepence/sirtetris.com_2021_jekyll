@@ -629,4 +629,21 @@ opacity: 0.2;
     code {
         background-color: #434343;
     }
+
+    $book-color: #504734;
+    table#bookshelf {
+      & li {
+        background: $book-color;
+          &::before {
+            border-bottom: $book-corner-style $book-color;
+            border-left: $book-corner-style #222;
+            border-right: $book-corner-style #222;
+          }
+          &::after {
+            border-top: $book-corner-style $book-color;
+            border-left: $book-corner-style #222;
+            border-right: $book-corner-style #222;
+          }
+      }
+    }
 }
