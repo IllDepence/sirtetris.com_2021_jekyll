@@ -3,7 +3,9 @@ layout: split
 ---
 
 # Context
-*The world is full of interesting things to be discovered, learned, practiced. As one searches for new input, advice from others already into a specific matter can be of great help. Therefore I'd like to share what keeps me moving, learning, living and offer hints and resources for the potentially interested.*
+*The world is full of interesting things to be discovered, learned, practiced. As one searches for new input, seeing what others are doing can be a source of inspiration, and advice from someone already into a specific thing can be of great help. Therefore I'd like to share what keeps me moving, learning, living and offer hints and resources for the potentially interested.*
+
+Apart from what’s shown here, be sure to also check out [the webring](https://webring.xxiivv.com/) linked at in the footer of the page.
 
 <!-- sep -->
 
@@ -46,14 +48,16 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * [Script for plotting the number of kanji in an Anki deck over time](https://github.com/IllDepence/kanjiplot)
     * [Script for finding new useful vocab based on frequency lists](https://github.com/IllDepence/findvocab)
 * Dictionaries:
-    * PC: [Tagaini Jisho](http://www.tagaini.net/)
+    * PC: [qolibri](https://github.com/ludios/qolibri/)+[EPWINGs](/a/bbcb7e53) / [Tagaini Jisho](http://www.tagaini.net/)
     * Web: [goo辞書](https://dictionary.goo.ne.jp/), [WWWJDIC](http://nihongo.monash.edu/cgi-bin/wwwjdic), [Denshi Jisho](http://jisho.org/)
     * Browser plugin for [Firefox](http://rikaichan.mozdev.org/) and [Chrome](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)
     * Android: [monolingual & offline](/a/bbcb7e53)
 * Examples sentences and collocations:
     * [Tsukuba Web Corpus](http://nlt.tsukuba.lagoinst.info/)
     * [Balanced Corpus of Contemporary Written Japanese](http://nlb.ninjal.ac.jp/)
-* [YouGlish](https://youglish.com/japanese)
+    * [YouGlish](https://youglish.com/japanese)
+* [漢字倶楽部](https://kanji.club/) (Kanji lookup by components)
+* [Online Japanese Accent Dictionary](http://www.gavo.t.u-tokyo.ac.jp/ojad/)
 * [News in Slow Japanese](http://newsinslowjapanese.com/home/) (listening practice)
 * [KanjiTomo](http://www.kanjitomo.net/) (identify Japanese characters from images)
 * [JLPT kanji check](http://moc.sirtetris.com/jlptkanjicheck/)
@@ -93,13 +97,13 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * [@naokorisu](https://www.tiktok.com/@naokorisu)
     * [@burrihi\_gty\_ik](https://www.tiktok.com/@burrihi_gty_ik)
     * [@takeshibengo](https://www.tiktok.com/@takeshibengo)
-<!--    * [Japanese-Subtitles](http://jpsubbers.web44.net/Japanese-Subtitles/)-->
+<!--    * [Japanese-Subtitles](http://jpsubbers.web44.net/Japanese-Subtitles/) -->
 
 ### Interact
 
 * Online
     * [Quora](https://jp.quora.com/)
-    * [Yahoo!知恵袋](http://chiebukuro.yahoo.co.jp/dir/dir_list.php)
+<!--    * [Yahoo!知恵袋](http://chiebukuro.yahoo.co.jp/dir/dir_list.php) Yahoo! GDPR nope’d -->
 * Offline
     * [Meetup](https://www.meetup.com/) (try to find meetups where description/details/etc. are only given in Japanese)
     * [connpass](https://connpass.com/) (aimed at engineers)
@@ -147,7 +151,7 @@ An English version of the rules of kyōgi karuta can be found [here](http://karu
 * [Hyakunin Isshu overview with english translations](http://etext.virginia.edu/japanese/hyakunin/index.html)
 
 To get an idea of how kyōgi karuta looks like:  
-[Highlights from the 2014 championship final](https://www.youtube.com/watch?v=HUbXBcD2m6E) -->
+[Highlights from the 2014 championship final](https://www.youtube.com/watch?v=HUbXBcD2m6E)
 
 Even more goodies:
 
@@ -165,7 +169,7 @@ A fun way to learn more about the world of karuta would be reading the manga [Ch
 ![](assets/img/interests/ps.jpg)
 
 Giving penspinning a try couldn't be easier. Grab a more or less balanced pen, look at a video tutorial online and practice &mdash; that's it.  
-It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning is the [UPSB](http://upsb.info/), I guess. Most contries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
+It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning ~~is the [UPSB](http://upsb.info/), I guess~~ that I know of appears to have gone inactive. Most contries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
 
 Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE), [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc), [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
 
@@ -194,9 +198,11 @@ In order to organize information I use [gitit](https://github.com/jgm/gitit). Re
 
 #### Misc
 * GitHub for code and configs
-* Kindle instead of analog books for mobility
+* Phone set to black and white for reduced addictiveness
 * ~~[HabitRPG](https://habitrpg.com/)~~ stopped using it after a few months once the novelty factor wore off
+
 <!-- sep -->
+
 # Mechanical keyboards<span id="keyboards"></span>
 *High quality input devices. :3*
 
@@ -241,7 +247,7 @@ Further places to look for interesting content include [TOOOL](http://toool.us/)
 
 As far as I can tell the places to go to for speedrunning content are the [Speed Demos Archive](http://speeddemosarchive.com/) and [Speed&shy;Runs&shy;Live](http://www.speedrunslive.com/). If you want to get a general idea of what a speedrun is and what a speedrunner does, take a look at [Portal Done Pro](https://www.youtube.com/watch?v=W1U5RUVENNE) *and* the [Portal Done Pro - Commentary Video](https://www.youtube.com/playlist?list=PL359B764A0A3B8188). Note that this run does not comply with the rules of SDA and is not listed there. Nonetheless does it give a nice glimpse into the world of speedrunning. A very entertaining way to learn a bit more can be following one of SDA's [marathons](http://marathon.speeddemosarchive.com/), where a group of speedrunners plays through a ton of games throughout several days. Most of them comment on what they are doing while playing, so you get an insight into what the key techniques are for running a particular game.
 
-As opposed to speedruns gathered at SDA, there are also runs called TAS — tool-assisted speedruns. I don't know a lot about them, but I guess [TASVideos](http://tasvideos.org/) is a good resource to start with.
+Apart from speedruns gathered at SDA, there are also runs called TAS — tool-assisted speedruns. I don't know a lot about them, but I guess [TASVideos](http://tasvideos.org/) is a good resource to start with.
 
 I myself never did serious speedrunning. Casual (and old) stuff:
 
@@ -260,7 +266,7 @@ Maybe not a hobby in the traditional sense, but something I would like people to
 If you haven't seen it yet, watch [Everything is a Remix](https://vimeo.com/139094998). Further down some very specific realms of remix culture.
 
 ### Doujinshi
-Not only what brought the idea of [drifting trains](http://m-ex.jp/circle/catalog/D01/d01.htm) into this world, but also a nice example especially worth highlighting to western audiences of a healthy, living remix culture that is not being held back by ignorant backfiring corporate efforts.
+Not only what brought the concept of [drifting trains](http://m-ex.jp/circle/catalog/D01/d01.htm) into this world, but also a nice example especially worth highlighting to western audiences of a healthy, living remix culture that is not being held back by ignorant backfiring corporate efforts.
 
 “Doujinshi is [...] like celebration, an ongoing fan party. [...] in America, grumpy rights holding companies shut down the party by calling the cops. In Japan, companies let the music play because they realize the party's in their honor.” — [Tofugu](https://www.tofugu.com/japan/doujinshi-definition/)
 

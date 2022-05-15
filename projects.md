@@ -2,7 +2,34 @@
 layout: split
 ---
 
-# I study Japanese!
+# Japanese Pitch Accent (Anki add-on)
+*フラットです*
+
+![](assets/img/projects/anki_plugin.jpg)
+
+I wanted my Anki cards to display the pitch accent of words, so I wrote a plugin that automatically adds that information. Some noteworthy points:
+
+* I kind of don’t like the types of pitch annotations that draw lines within the kana rendition of a word, like <span style="text-decoration: underline">た</span>&#124;<span style="text-decoration: overline">しゅ</span>&#124;<span style="text-decoration: underline">み</span>, or that only indicate the downstep. For my add-on I chose a style like the [大辞林](https://www.sanseido-publ.co.jp/publ/dicts/daijirin_ac.html) dictionary and [Dogen](https://www.youtube.com/watch?v=G0ULPlBeKzg) use. Circles connected by lines where (1) each circle shows the pitch of one mora (i.e. if two characters make up a 拗音, they are grouped together) and (2) the pitch of the mora following the word is also shown.
+* The pitch illustrations are added to cards as SVG, making them customizable via CSS, more lightweight than pixel graphics, and part of the Anki cards themselves rather than embedded media.
+* The pitch information is taken from [Wadoku](https://www.wadoku.de/), who permissively share their dictionary data.
+* Looking for a suitable data source was a great way to learn about different pitch accent annotation schemes ([see notes in my Wadoku parsing script](https://github.com/IllDepence/anki_add_pitch/blob/master/wadoku_parse.py)).
+
+If you have some use for it: [here’s the plugin](https://ankiweb.net/shared/info/148002038) and [here’s the code](https://github.com/IllDepence/anki_add_pitch_plugin). In case you have a use for SVG pitch accent illustrations outside of Anki or just want to play around a bit [here’s an online version](https://illdepence.github.io/SVG_pitch/).
+
+<!-- sep -->
+
+# A local Japan meetup
+*恩返しでも自分勝手でもある*
+
+![](assets/img/projects/stammtisch_ka.jpg)
+
+While doing my master’s in Freiburg I regularly joined the local Japan meetup, which was loosely organized by a few grad students. Moving to Karlsruhe for my PhD I found no equivalent, so I started one myself. I knew from the Freiburg meetup that you need someone to proactively set a date, advertise the thing, reserve a table, etc., otherwise things die down quickly. Given that I would be in Karlsruhe for around four years anyway, my situation seemed like a good fit.
+
+So, in case your from somewhere around the area: [here’s the link](https://japanstammtisch.github.io/).
+
+<!-- sep -->
+
+# Studying Japanese
 *継続は力なり*
 
 ![](assets/img/projects/jp.png)
@@ -11,10 +38,11 @@ I started off with three beginner level Japanese courses offered by the language
 <div class="hr"></div>
 ## &gt; Main quest: learn the language
 ##### <br>
-### Reading &amp; writing<span id="jp-progress"></span>
-‌  
+### Kanji progress<span id="jp-progress"></span>
 <div id="graph"><img src="assets/img/projects/kanjistats.png" alt="kanjistats.png" /></div>
-(plotted using [this script](https://github.com/IllDepence/kanjiplot))<br><br>
+##### <br>
+### General timeline
+‌  
 
 Timeline |<!-- this makes the table work -->
 :-------:|:-
@@ -68,6 +96,8 @@ Timeline |<!-- this makes the table work -->
 21/10/02 | [200 recognition only kanji](/a/579b082d)
 22/01/22 | [300 recognition only kanji](/a/579f082e)
 22/04/10 | [400 recognition only kanji](/a/57a3082f)
+22/04/17 | [covered all 常用漢字](/a/b9180b80) with recognition only & recognition+recall decks
+22/05/03 | started dedicated learning of people and place names using [this deck](https://ankiweb.net/shared/info/3885156604)
 
 <div class="hr"></div>
 ## &gt; Side quest: explore the country
@@ -99,7 +129,7 @@ Timeline |<!-- this makes the table work -->
 
 <!-- sep -->
 
-# I tinker with tech!
+# Tinkering with tech
 *Mostly in terms of software though.*
 
 ![](assets/img/projects/rpi.png)
@@ -108,13 +138,12 @@ Timeline |<!-- this makes the table work -->
 
 <!-- sep -->
 
-# I have a website!
+# A website
 *It's a clunky pile of statically generated HTML but I don't care. :)*
 
 ![](assets/img/projects/websites.png)
 
-Started doing this in 2005. Content changes over time as do my interests.
-<script src="assets/img/projects/kanjigraph.js"></script>
+Started doing this in 2005. Content changes over time as do my interests. Overall the website is as much a form of a creative outlet as it is a tool for self reflection (which ... somehow has to be public for all the world to see ... I don’t know, humans are weird and that’s okay).
 
 <!-- split -->
 
@@ -130,7 +159,7 @@ Started doing this in 2005. Content changes over time as do my interests.
 * [calyx](https://github.com/IllDepence/calyx)
 * [MALandBots](https://github.com/IllDepence/MALandBots)
 * [userscripts](https://github.com/IllDepence/userscripts)
-* [sirtetris.com](https://github.com/IllDepence/sirtetris.com)
+* [sirtetris.com](https://github.com/IllDepence/sirtetris.com_2021_jekyll)
 
 <!-- sep -->
 
