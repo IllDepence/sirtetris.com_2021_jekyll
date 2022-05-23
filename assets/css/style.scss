@@ -407,6 +407,20 @@ $book-color: #cab99a;
 $book-corner-style: 5px solid;
 
 table#bookshelf {
+  writing-mode: vertical-rl;
+  width: 100%;
+  & tr {
+    vertical-align: top;
+  }
+  & th {
+    writing-mode: horizontal-tb;
+    height: 1.75em;
+    vertical-align: middle;
+    border-bottom-width: 2px;
+  }
+  & td {
+    height: 150px;
+  }
   & ol {
   list-style-type: none;
   counter-reset: foo;
@@ -414,8 +428,8 @@ table#bookshelf {
   & li {
     background: $book-color;
     position: relative;
-    margin-top: 2px;
-    padding: 3px;
+    margin-left: 2px;
+    padding: 7px 3px 7px 3px;
       &::before {
         content: "";
         width: 100%;
@@ -573,6 +587,12 @@ aside article:only-child {
     top: initial;
     left: initial;
     margin-left: initial;
+}
+
+table#bookshelf td {
+    display: block;
+    width: 308px;
+    overflow: scroll;
 }
 
 #sirtetris {
