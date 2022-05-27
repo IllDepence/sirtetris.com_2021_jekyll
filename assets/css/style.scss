@@ -604,25 +604,78 @@ width: 308px;
 width: 308px;
 height: 308px;
 }
-#tashumimaru g[id$="_overlay"] {
+
+/* - - - logo mark overlay animation - - -*/
+$fade_loop_params: 10s infinite;
+#tashumimaru g#blog_overlay {
 opacity: 0.2;
--webkit-animation: fadein 10s infinite; /* Safari, Chrome and Opera > 12.1 */
-   -moz-animation: fadein 10s infinite; /* Firefox < 16 */
-    -ms-animation: fadein 10s infinite; /* Internet Explorer */
-     -o-animation: fadein 10s infinite; /* Opera < 12.1 */
-        animation: fadein 10s infinite;
+-webkit-animation: fadein_a $fade_loop_params; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein_a $fade_loop_params; /* Firefox < 16 */
+    -ms-animation: fadein_a $fade_loop_params; /* Internet Explorer */
+     -o-animation: fadein_a $fade_loop_params; /* Opera < 12.1 */
+        animation: fadein_a $fade_loop_params;
 }
-@keyframes fadein {
+@keyframes fadein_a {
+  0%    { opacity: 0}
+  25%   { opacity: 0}
+  35%   { opacity: 1}
+  45%   { opacity: 1}
+  55%   { opacity: 0}
+  100%  { opacity: 0}
+}
+#tashumimaru g#hbby_overlay {
+opacity: 0.2;
+-webkit-animation: fadein_b $fade_loop_params; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein_b $fade_loop_params; /* Firefox < 16 */
+    -ms-animation: fadein_b $fade_loop_params; /* Internet Explorer */
+     -o-animation: fadein_b $fade_loop_params; /* Opera < 12.1 */
+        animation: fadein_b $fade_loop_params;
+}
+@keyframes fadein_b {
   0%    { opacity: 0}
   30%   { opacity: 0}
   40%   { opacity: 1}
+  50%   { opacity: 1}
+  60%   { opacity: 0}
+  100%  { opacity: 0}
+}
+#tashumimaru g#proj_overlay {
+opacity: 0.2;
+-webkit-animation: fadein_c $fade_loop_params; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein_c $fade_loop_params; /* Firefox < 16 */
+    -ms-animation: fadein_c $fade_loop_params; /* Internet Explorer */
+     -o-animation: fadein_c $fade_loop_params; /* Opera < 12.1 */
+        animation: fadein_c $fade_loop_params;
+}
+@keyframes fadein_c {
+  0%    { opacity: 0}
+  35%   { opacity: 0}
+  45%   { opacity: 1}
+  55%   { opacity: 1}
+  65%   { opacity: 0}
+  100%  { opacity: 0}
+}
+#tashumimaru g#misc_overlay {
+opacity: 0.2;
+-webkit-animation: fadein_d $fade_loop_params; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein_d $fade_loop_params; /* Firefox < 16 */
+    -ms-animation: fadein_d $fade_loop_params; /* Internet Explorer */
+     -o-animation: fadein_d $fade_loop_params; /* Opera < 12.1 */
+        animation: fadein_d $fade_loop_params;
+}
+@keyframes fadein_d {
+  0%    { opacity: 0}
+  40%   { opacity: 0}
+  50%   { opacity: 1}
   60%   { opacity: 1}
   70%   { opacity: 0}
   100%  { opacity: 0}
 }
+/* - - - /logo mark overlay animation - - -*/
 
 }
 
+/* dark mode */
 @media (prefers-color-scheme: dark) {
     body {
         color: #ddd;
