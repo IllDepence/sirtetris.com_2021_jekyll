@@ -61,7 +61,6 @@ I started off with three beginner level Japanese courses offered by the language
 <li>ユニコード戦記</li>
 <li>「舞姫」の主人公をバンカラとアフリカ人がボコボコにする最高の小説の世界が明治に存在したので20万字くらいかけて紹介する本</li>
 <li>鳩居堂の日本のしきたり 豆知識</li>
-<li>僕とツンデレとハイデガー</li>
 <li>活版印刷三日月堂 空色の冊子</li>
 </ol></td>
 <th>Reading / Paused</th>
@@ -84,6 +83,7 @@ I started off with three beginner level Japanese courses offered by the language
 <li>絶滅危惧動作図鑑</li>
 <li>新解さんの謎</li>
 <li>日本語の「大疑問」</li>
+<li>僕とツンデレとハイデガー</li>
 </ol></td>
 <th>Read</th></tr>
 
@@ -156,7 +156,7 @@ Timeline |<!-- this makes the table work -->
 ##### <br>
 ### Progress<span id="jp-ex-progress"></span>
 ‌  
-![](assets/img/projects/explore_jp_14.jpg)
+![](assets/img/projects/explore_jp_15.jpg)
 ‌  
 
 Timeline |<!-- this makes the table work -->
@@ -178,6 +178,8 @@ Timeline |<!-- this makes the table work -->
 19/06/21 | quick trip to 神戸 (兵庫県)
 19/06/22 | quick trip to 奈良 (奈良県)
 20/03/19 | four day trip to 鹿児島県
+22/10/08 | three day trip to 金沢 (石川県) along 富山県
+22/10/17 | two day trip to 軽井沢 (長野県)
 
 <!-- sep -->
 
