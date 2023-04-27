@@ -1,3 +1,8 @@
 _site
 *.xcf
 *.swp
+.bundle/
+Gemfile
+Gemfile.lock
+_maintenance/
+vendor/

@@ -7,11 +7,11 @@ layout: split
 * **Location**
     * living in Karlsruhe, Germany
 * **Work**
-    * [doing a PhD](https://sirtetris.github.io)
+    * [doing a PhD](https://illdepence.github.io/cv/)
     * bit of programming for [NII](https://www.nii.ac.jp) once in a blue moon
 * **Pastime**
     * reading Japanese books (currently:『活版印刷三日月堂 空色の冊子』)
-    * listening to Japanese podcasts (most recent addition: 『[ゆる言語学ラジオ](https://radio.ken-horimoto.com/)』
+    * having conversations in Japanese on [Tandem](https://tandem.net/) and [HelloTalk](https://www.hellotalk.com/)
     * organizing a [monthly meetup](https://japanstammtisch.github.io/) for Japanese German exchange
 
 ‌

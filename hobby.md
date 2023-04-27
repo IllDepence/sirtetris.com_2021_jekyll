@@ -104,6 +104,8 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 * Online
     * [Quora](https://jp.quora.com/)
 <!--    * [Yahoo!知恵袋](http://chiebukuro.yahoo.co.jp/dir/dir_list.php) Yahoo! GDPR nope’d -->
+    * [Tandem](https://tandem.net/)
+    * [HelloTalk](https://www.hellotalk.com/)
 * Offline
     * [Meetup](https://www.meetup.com/) (try to find meetups where description/details/etc. are only given in Japanese)
     * [connpass](https://connpass.com/) (aimed at engineers)
@@ -111,7 +113,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * [TwiPla](https://twipla.jp/)
 
 ‌  
-My personal Japanese progress has it's own place in the [projects section](/proj).
+My personal Japanese progress has it's own place in the [projects section](/projects).
 
 <!-- sep -->
 

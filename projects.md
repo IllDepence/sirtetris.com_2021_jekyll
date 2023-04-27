@@ -156,7 +156,7 @@ Timeline |<!-- this makes the table work -->
 ##### <br>
 ### Progress<span id="jp-ex-progress"></span>
 ‌  
-![](assets/img/projects/explore_jp_15.jpg)
+![](assets/img/projects/explore_jp_16.jpg)
 ‌  
 
 Timeline |<!-- this makes the table work -->
@@ -180,6 +180,7 @@ Timeline |<!-- this makes the table work -->
 20/03/19 | four day trip to 鹿児島県
 22/10/08 | three day trip to 金沢 (石川県) along 富山県
 22/10/17 | two day trip to 軽井沢 (長野県)
+23/03/29 | entered Japan in 札幌 (北海道)
 
 <!-- sep -->
 
