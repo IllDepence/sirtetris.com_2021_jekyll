@@ -52,6 +52,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
     * Web: [goo辞書](https://dictionary.goo.ne.jp/), [WWWJDIC](http://nihongo.monash.edu/cgi-bin/wwwjdic), [Denshi Jisho](http://jisho.org/)
     * Browser plugin for [Firefox](http://rikaichan.mozdev.org/) and [Chrome](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)
     * Android: [monolingual & offline](/a/bbcb7e53)
+    * Android/iOS: [Outlier Kanji Dictionary](https://www.outlier-linguistics.com/products/outlier-kanji-dictionary-essentials-edition)
 * Examples sentences and collocations:
     * [Tsukuba Web Corpus](http://nlt.tsukuba.lagoinst.info/)
     * [Balanced Corpus of Contemporary Written Japanese](http://nlb.ninjal.ac.jp/)
@@ -193,7 +194,7 @@ I, personally, started penspinning in 2007 and actively pursued it — i.e. took
 Ever since the podcast [Hello Internet](http://www.hellointernet.fm/) popped into existence [CGP Grey](http://www.cgpgrey.com/) seems to me like a figure to aspire to with regard to self-management but ... I'm not an Apple user, so no OmniFocus for me. Jests aside, here's some relevant stuff:
 
 #### A personal wiki
-In order to organize information I use [gitit](https://github.com/jgm/gitit). Reasons: Markdown, subfolders, MathJax, git based.
+In order to organize information I use ~~[gitit](https://github.com/jgm/gitit)~~ [Obsidian](https://obsidian.md/), which I sync between desktop and mobile via Git.
 
 #### Memorize stuff (SRS)
 [Anki](http://ankisrs.net/) — ever since I set out to learn 2000+ Japanese characters. Have something that you'd like to memorize efficiently and forever? SRS!

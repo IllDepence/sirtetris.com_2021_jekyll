@@ -25,7 +25,7 @@ If you have some use for it: [here’s the plugin](https://ankiweb.net/shared/in
 
 While doing my master’s in Freiburg I regularly joined the local Japan meetup, which was loosely organized by a few grad students. Moving to Karlsruhe for my PhD I found no equivalent, so I started one myself. I knew from the Freiburg meetup that you need someone to proactively set a date, advertise the thing, reserve a table, etc., otherwise things die down quickly. Given that I would be in Karlsruhe for around four years anyway, my situation seemed like a good fit.
 
-So, in case your from somewhere around the area: [here’s the link](https://japanstammtisch.github.io/).
+So, in case you’re from somewhere around the area: [here’s the link](https://japanstammtisch.github.io/).
 
 <!-- sep -->
 
@@ -91,7 +91,7 @@ I started off with three beginner level Japanese courses offered by the language
 
 ##### <br>
 ### Kanji progress<span id="jp-progress"></span>
-<div id="graph"><img src="assets/img/projects/kanjistats.png" alt="kanjistats.png" /></div>
+<a href="assets/img/projects/kanjistats_large.png"><img src="assets/img/projects/kanjistats.png" alt="kanjistats.png" /></a>
 ##### <br>
 ### General timeline
 ‌  
