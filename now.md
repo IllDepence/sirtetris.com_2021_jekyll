@@ -8,10 +8,10 @@ layout: split
     * living in Karlsruhe, Germany
 * **Work**
     * [doing a PhD](https://illdepence.github.io/cv/)
-    * bit of programming for [NII](https://www.nii.ac.jp) once in a blue moon
 * **Pastime**
-    * reading Japanese books (currently:『活版印刷三日月堂 空色の冊子』)
-    * having conversations in Japanese on [Tandem](https://tandem.net/) and [HelloTalk](https://www.hellotalk.com/)
+    * [starting out to study Korean](/a/742216f0)
+    * reading Japanese books (currently:『漢字はコワくない』)
+    * having conversations in Japanese/listening in on Korean on [HelloTalk](https://www.hellotalk.com/) and [Tandem](https://tandem.net/)
     * organizing a [monthly meetup](https://japanstammtisch.github.io/) for Japanese German exchange
 
 ‌

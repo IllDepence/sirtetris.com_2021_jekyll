@@ -9,6 +9,92 @@ Apart from what’s shown here, be sure to also check out [the webring](https://
 
 <!-- sep -->
 
+# Letters<span id="letters"></span>
+A 𝖆 𝒜 𝚊 α あ ア 安 ㌁ 알 א ∀ 🄰 ㎂ ㏂ ℀ 🂡 🍙
+
+![](assets/img/interests/letters.jpg)
+
+Writing systems are fascinating, typography is aesthetic, and letterpress printing is just cool in a steampunk-y, craftsman-y way. If you’re also into things like that, find some goodies down below.
+
+### Languages
+
+Japanese is written in a mix of three character sets; two syllabaries *and* a set of logographic characters. Example: the word for eraser, 消しゴム, starts with the logograph 消 meaning “to erase“, continues with the hiragana letter し (for grammar reasons) representing the sound “shi”, and ends with the katakana letters ゴム representing the sounds “go“ and “mu“ (“gomu” ≈ “gum”) respectively. Depending on stylistic choice, it is also possible to switch between the three sets of symbols. For example, the [Japanese Wikipedia article on seals](https://ja.wikipedia.org/wiki/%E5%8D%B0%E7%AB%A0) contains the word pronounced “hanko” as “はんこ” in hiragana, “ハンコ” in katakana, and “判子” in kanji.
+
+In Korean, letters are constructed from consonant and vowel components. For example, the letter 독, pronounced “tog”, consists of ㄷ, ㅗ, and ㄱ. So you type those three one after the other, and they turn into 독. When it comes to pronunciation though, the consonants at the end of letters can “move syllable”. The Korean word for Germany, 독일 (“togil”), for example, is not “tog” and “il” (letter by letter), but rather “to” and “gil”. A German person, 독일인, then is “to”, “gi”, and “lin”.
+
+### Letters and Technology
+
+Fun things happen when the madness of human driven writing systems is reflected in rigid structures of technological standards, like Unicode.
+
+* [Unicode contains “ghost characters“](https://en.wikipedia.org/wiki/Ghost_characters)
+* The Unicode block [CJK Compatibility](https://graphemica.com/blocks/cjk-compatibility) contains the names units of measurements and other terms in single characters in Japanese. For example, ㍌ reads “mega” in the upper line and “ton” below. (Here are some cryptic shenanigans with the [“kumimoji”](https://github.com/IllDepence/goyoukumimoji).)
+* [Punycode](https://en.wikipedia.org/wiki/Punycode) is a fun character encoding used e.g. in non-Latin alphabet domain names.
+
+### Books
+
+* [Writing Systems of the World](https://www.goodreads.com/book/show/534188.Writing_Systems_of_the_World) (Japanese original: [世界の文字](https://shokado.nacos.com/books/?p=454))  
+  A nice overview of the types of writing systems allover the world, which explanations and example images of e.g. newspapers.
+* [Because Internet](https://gretchenmcculloch.com/book/)  
+  On how real time written communication is a novel phenomenon enabled by the internet.
+* [ユニコード戦記](https://www.tdupress.jp/book/b350011.html)  
+  Telling about the struggles of representing Japan in the negotiations and consortia deciding on the Unicode standard.
+* [活版印刷三日月堂（1](https://www.poplar.co.jp/book/search/result/archive/8101304.html)、[2](https://www.poplar.co.jp/book/search/result/archive/8101316.html)、[3](https://www.poplar.co.jp/book/search/result/archive/8101343.html)、[4](https://www.poplar.co.jp/book/search/result/archive/8101361.html)、[5](https://www.poplar.co.jp/book/search/result/archive/8101391.html)、[6）](https://www.poplar.co.jp/book/search/result/archive/8101394.html)  
+  A series of novels centered around a small letterpress printing shop in modern day Kawagoe, Japan.
+
+### Places
+
+* [印刷博物館](https://www.printing-museum.org/)  
+  The Tokyo Printing Museum — great exhibition and regular letterpress printing “mini workshops” (which is where the banner image above was taken).
+* [漢字博物館・図書館](https://www.kyoto-museums.jp/museum/east/414/)  
+  The Kanji museum in Kyoto. Aesthetically really nice exhibition and you can take mini mock-exams of the [Kanji Kentei](https://en.wikipedia.org/wiki/Kanji_Kentei).
+
+### Misc
+
+* [Uppestcase and Lowestcase Letters [advances in derp learning]](https://www.youtube.com/watch?v=HLRdruqQfRk) (YouTube)
+* [graphemica](https://graphemica.com/) - an awesome website to look up information on characters
+
+<!-- sep -->
+
+# Tabletop Games<span id="tabletopgames"></span>
+*Rectify. ... Rectify. ... Games!*
+
+![](assets/img/interests/games.jpg)
+
+I grew up with Settlers of Catan, and in my twenties found Carcassonne as a second “all-time favorite”. I also *really* like “Stadt, Land, Fluss”, the German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29). Below some pointers and personal projects regarding games.
+
+* **Catan**
+    * [The fair Catan board quest](https://www.boardgameanalysis.com/the-fair-catan-board-quest/)  
+  An interesting series of blog posts about fair Catan boards.
+* **Carcassonne**
+    * [Carcass∞nne](https://github.com/IllDepence/carcassoonne)  
+      A minimalistic web interface to play Carcassonne with infinite tiles.
+    * [Citétris de Carcassonne](https://github.com/IllDepence/citetris-de-carcassonne)  
+      A work in progress implementation of Tetris with Carcassonne tiles.
+* **Stadt, Land, Fluss**
+    * [Stadt, Land, Fluss Kategoriekarten](https://github.com/IllDepence/slf_category_cards)  
+      Card designs for choosing categories in a game of Stadt, Land, Fluss (he German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29)).
+    * [Stadt, Land, Fluss Web](https://github.com/IllDepence/slf_web)  
+      A work in progress web implementation of Stadt, Land, Fluss where extra points are given based on the order of player answers per category.
+
+‌  
+Below some more general points.
+
+* Events I like
+    * [Schwarzwälder Spieletage](https://mounty.de/) (Furtwangen, Germany)
+    * [ゲームマーケット](https://www.gamemarket.jp/) (Tokyo, Japan)
+* Some Japanese games I own
+    * [カタカナーシ](https://www.gentosha-edu.co.jp/smp/book/b450309.html)
+    * [今日も帰れない](https://gamemarket.jp/game/21939)
+    * [Ostle](https://gamemarket.jp/game/76310)
+    * [ラブレター](https://www.gentosha-edu.co.jp/book/b378023.html) (Japanese version of Love Letter)
+    * [フォントかるた](https://www.fontkaruta.com/)
+    * [漢字博士No.1［特製］](https://ba2u2.com/kanji/01.html)
+    * [漢字博士No.2](https://ba2u2.com/kanji/03.html)
+    * [任天堂謹製 小倉百人一首 都錦](https://www.nintendo.co.jp/others/hyakuninisshu/index.html)
+    * [下の句歌留多協会](http://www.shimonokukaruta.com/) from [ワダガング](http://www.wadagangu.co.jp/)
+
+<!-- sep -->
+
 # Japanese<span id="japanese"></span>
 *orz*
 
@@ -69,9 +155,9 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 
 #### Absorb
 
-* About Japan (this is a [dark playground](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html#note-1-502), try to get to a point where Japanese content is fun)
+* About Japan (this is a [dark playground](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html#note-1-502), try to get to a point where content *in* Japanese is fun)
     * [Tofugu](https://www.youtube.com/user/tofugu)
-    * [Rachel & Jun](https://www.youtube.com/user/MyHusbandisJapanese)
+    * [Rachel & Jun](https://www.youtube.com/@RachelandJunAdventures) <!--https://www.youtube.com/user/MyHusbandisJapanese)-->
     * [Hikosaemon](https://www.youtube.com/user/Hikosaemon)
 <!--    * [BusanKevin](https://www.youtube.com/user/BusanKevin) / [jlandkev](https://www.youtube.com/user/jlandkev) -->
 <!--    * [Gimmeabreakman](https://www.youtube.com/gimmeabreakman) / [Gimmeaflakeman](https://www.youtube.com/user/Gimmeaflakeman) -->
@@ -103,10 +189,10 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 ### Interact
 
 * Online
+    * [HelloTalk](https://www.hellotalk.com/)
+    * [Tandem](https://tandem.net/)
     * [Quora](https://jp.quora.com/)
 <!--    * [Yahoo!知恵袋](http://chiebukuro.yahoo.co.jp/dir/dir_list.php) Yahoo! GDPR nope’d -->
-    * [Tandem](https://tandem.net/)
-    * [HelloTalk](https://www.hellotalk.com/)
 * Offline
     * [Meetup](https://www.meetup.com/) (try to find meetups where description/details/etc. are only given in Japanese)
     * [connpass](https://connpass.com/) (aimed at engineers)
@@ -127,7 +213,7 @@ Just look for people in your area doing parkour. In [my experience](/a/5fd38d56)
 
 To get an idea of what parkour is, watch [People in Motion](https://www.youtube.com/watch?v=QH09YCtpKaw). tl;dw: it's playing with one's environment by moving around.
 
-Side note: I like [double kongs](assets/img/interests/parkour.gif).
+Shameless brag: I used to do [double kongs](assets/img/interests/parkour.gif).
 
 <!-- sep -->
 
@@ -136,8 +222,7 @@ Side note: I like [double kongs](assets/img/interests/parkour.gif).
 
 ![](assets/img/interests/slackline.gif)
 
-<!-- sep -->
-
+<!--
 # Karuta<span id="karuta"></span>
 *難波津に…*
 
@@ -160,9 +245,11 @@ Even more goodies:
 
 * [the flickr account](https://secure.flickr.com/photos/nzkka/) of the New Zealand Karuta Association
 * [a nice essay](http://www.asahi-net.or.jp/~xs3d-bull/essays/karuta/karuta.html) about kyōgi karuta
+* on the off chance you’re interested in 下の句かるた, try checking out [BOOK OFF](https://www.bookoff.co.jp/) and [HARD OFF](https://www.hardoff.co.jp/) stores in Hokkaidō. In 2023 I got found [nice set](assets/img/interests/simonokukaruta.jpg) with wooden “cards” in Sapporo that way.
 
 ‌  
 A fun way to learn more about the world of karuta would be reading the manga [Chihayafuru](http://en.wikipedia.org/wiki/Chihayafuru) or watching the anime adaptaion.
+-->
 
 <!-- sep -->
 
@@ -176,7 +263,7 @@ It is, of course, more fun when you also get involved with the community. The la
 
 Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE), [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc), [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
 
-I, personally, started penspinning in 2007 and actively pursued it — i.e. took my time to practice, look out for new tricks to learn, etc. — for maybe a year and a half. After that it's been casual ever since. I barely try or practice new stuff ... but it's still a lot of fun to doing it and I don't plan to stop. :)
+I, personally, started penspinning in 2007 and actively pursued it — i.e. took my time to practice, look out for new tricks to learn, etc. — for maybe a year and a half. After that it's been casual ever since. I barely try or practice new stuff ... but it's still a lot of fun and I don't plan to stop. :)
 
 #### Some of my recordings
 
@@ -285,7 +372,7 @@ Example AMVs:
 Creator | Title | Source | Download | YouTube
 :-|:-|:-|:-:|:-:
 Hagaren Viper | This Is Halloween | Soul Eater | [💾](http://www.animemusicvideos.org/members/members_videoinfo.php?v=172517) | [▶](https://www.youtube.com/watch?v=i_zYrYkbrGY)
-Gorz | Beauty And A Glitch | Fate/stay night: UBW | [💾](http://amvnews.ru/index.php?go=Files&in=view&id=6610) | [▶](https://www.youtube.com/watch?v=0pRJJhAjosc)
+Gorz | Beauty And A Glitch | Fate/stay night: UBW | [💾](http://amvnews.ru/index.php?go=Files&in=view&id=6610) | [▶](https://www.youtube.com/watch?v=w7U3oQbnVP4)<!--[▶](https://www.youtube.com/watch?v=0pRJJhAjosc)-->
 Shin | Nefarium Psychologica | Mahou Shoujo Madoka Magica | [💾](http://www.akross.ru/index.cgi?act=video;id=4405) | [▶](https://www.youtube.com/watch?v=EJ-dnuFItAE)
 Shin | Mahou Shoujo Requiem | Mahou Shoujo Madoka Magica | [💾](http://amvnews.ru/index.php?go=Files&in=view&id=3445) | [▶](https://www.youtube.com/watch?v=4Q9wGu3ILeo)
 Kisanzi | The Nightmagi Cometh | Mahou Shoujo Madoka Magica | [💾](http://amvnews.ru/index.php?go=Files&in=view&id=4955) | [▶](https://www.youtube.com/watch?v=JiKxNI7_5dc)
@@ -327,10 +414,12 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 
 ## Nav
 
+* [Letters](#letters)
+* [Tabletop Games](#tabletopgames)
 * [Japanese](#japanese)
 * [Parkour](#parkour)
 * [Slacklining](#slacklining)
-* [Karuta](#karuta)
+<!--* [Karuta](#karuta)-->
 * [Penspinning](#penspinning)
 * [Self-management](#management)
 * [Mechanical keyboards](#keyboards)

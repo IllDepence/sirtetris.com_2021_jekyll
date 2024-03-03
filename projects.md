@@ -43,10 +43,10 @@ I started off with three beginner level Japanese courses offered by the language
 
 <table id="bookshelf">
 <tr><td><ol>
+<!--<li>教室内カースト</li>-->
+<!--<li>文系と理系はなぜ分かれたのか</li>-->
 <li>印刷に恋して</li>
-<li>教室内カースト</li>
 <li>辞書編集、三十七年</li>
-<li>文系と理系はなぜ分かれたのか</li>
 <li>活字が消えた日</li>
 <li>活版印刷三日月堂 小さな折り紙</li>
 <li>都道府県の持ちかた</li>
@@ -84,6 +84,7 @@ I started off with three beginner level Japanese courses offered by the language
 <li>新解さんの謎</li>
 <li>日本語の「大疑問」</li>
 <li>僕とツンデレとハイデガー</li>
+<li>漢字はコワくない </li>
 </ol></td>
 <th>Read</th></tr>
 
