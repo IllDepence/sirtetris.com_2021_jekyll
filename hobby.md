@@ -5,7 +5,7 @@ layout: split
 # Context
 *The world is full of interesting things to be discovered, learned, practiced. As one searches for new input, seeing what others are doing can be a source of inspiration, and advice from someone already into a specific thing can be of great help. Therefore I'd like to share what keeps me moving, learning, living and offer hints and resources for the potentially interested.*
 
-Apart from what’s shown here, be sure to also check out [the webring](https://webring.xxiivv.com/) linked at in the footer of the page.
+Apart from what’s shown here, be sure to also check out [the webring](https://webring.xxiivv.com/) linked at the bottom of the page.
 
 <!-- sep -->
 
@@ -64,7 +64,7 @@ I grew up with Settlers of Catan, and in my twenties found Carcassonne as a seco
 
 * **Catan**
     * [The fair Catan board quest](https://www.boardgameanalysis.com/the-fair-catan-board-quest/)  
-  An interesting series of blog posts about fair Catan boards.
+      An interesting series of blog posts about fair Catan boards.
 * **Carcassonne**
     * [Carcass∞nne](https://github.com/IllDepence/carcassoonne)  
       A minimalistic web interface to play Carcassonne with infinite tiles.
@@ -72,7 +72,7 @@ I grew up with Settlers of Catan, and in my twenties found Carcassonne as a seco
       A work in progress implementation of Tetris with Carcassonne tiles.
 * **Stadt, Land, Fluss**
     * [Stadt, Land, Fluss Kategoriekarten](https://github.com/IllDepence/slf_category_cards)  
-      Card designs for choosing categories in a game of Stadt, Land, Fluss (he German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29)).
+      Card designs for choosing categories in a game of Stadt, Land, Fluss (the German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29)).
     * [Stadt, Land, Fluss Web](https://github.com/IllDepence/slf_web)  
       A work in progress web implementation of Stadt, Land, Fluss where extra points are given based on the order of player answers per category.
 
@@ -105,7 +105,7 @@ Prepare to face three different, partly redundant, simultaneously used scripts; 
 On the other hand pronunciation is super consistent (looking at you, English), grammar is totally manageable and there are awesome things like the word for “influence”, 「影響」, being written with the characters for “shadow” and “resonance”; or “strategy”, 「戦略」, with “battle” and “shortcut”. Also, the word for “crowd of people”, 「人混み」, has the same pronunciation as “people garbage”.
 
 Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [part](https://www.youtube.com/watch?v=CF3MRMBjd20) [series](https://www.youtube.com/watch?v=TD7Lc4QBh5w) on writing Japanese  
-“It's the most bizzarly complicated writing system within a system ever devised by humankind.”  
+“It's the most bizarrely complicated writing system within a system ever devised by humankind.”  
 
 #### Overview
 
@@ -259,7 +259,7 @@ A fun way to learn more about the world of karuta would be reading the manga [Ch
 ![](assets/img/interests/ps.jpg)
 
 Giving penspinning a try couldn't be easier. Grab a more or less balanced pen, look at a video tutorial online and practice &mdash; that's it.  
-It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning ~~is the [UPSB](http://upsb.info/), I guess~~ that I know of appears to have gone inactive. Most contries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
+It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning ~~is the [UPSB](http://upsb.info/), I guess~~ that I know of appears to have gone inactive. Most countries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
 
 Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE), [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc), [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
 
@@ -392,7 +392,7 @@ Umika, ZEVS1993 | Our Tapes | mixed | [💾](http://amvnews.ru/index.php?go=File
 <!-- sep -->
 
 # MOAR<span id="MOAR"></span>
-Stuff that I was into, want to get into, am into but lack usable content to present or motiavtion to create a section for, is represented somewhere else on the site, etc.
+Stuff that I was into, want to get into, am into but lack usable content to present or motivation to create a section for, is represented somewhere else on the site, etc.
 
 * linux
 * free and open-source
