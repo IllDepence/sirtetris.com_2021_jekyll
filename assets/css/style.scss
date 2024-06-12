@@ -33,6 +33,8 @@ em {
 
 $link-color: #007f9a;
 $link-color-hover: #006378;
+$link-color-nightmode: #209fba;
+$link-color-hover-nightmode: #208398;
 
 label {
     color: $link-color;
@@ -381,12 +383,12 @@ content: "\0073\0061\0069\0065\0072\0040\0070\0072\006F\0074";
 }
 
 span.a {
-color: #007f9a;
+color: $link-color;
 text-decoration: none;
 }
 
 span.a:hover {
-color: #006378;
+color: $link-color-hover;
 }
 
 a.info, a.info:hover {
@@ -493,7 +495,7 @@ fill-opacity: 0;
 }
 #sirtetris path:not(#bg_rect),
 #tashumimaru path {
-fill: #006378;
+fill: $link-color-hover;
 fill-opacity: 1;
 stroke: none;
 }
@@ -680,6 +682,22 @@ opacity: 0.2;
     body {
         color: #ddd;
         background-color: #222;
+    }
+    label {
+        color: $link-color-nightmode;
+        &:hover {
+            color: $link-color-hover-nightmode;
+        }
+    }
+    a {
+        color: $link-color-nightmode;
+        &:hover {
+            color: $link-color-hover-nightmode;
+        }
+    }
+    #sirtetris path:not(#bg_rect),
+    #tashumimaru path {
+      fill: $link-color-hover-nightmode;
     }
     #inb4mail, #inb4mail2 {
         background-color: #444;
