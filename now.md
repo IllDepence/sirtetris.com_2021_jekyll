@@ -5,14 +5,13 @@ layout: split
 # Now
 
 * **Location**
-    * living in Karlsruhe, Germany
+    * living in Osaka, Japan
 * **Work**
-    * [doing a PhD](https://illdepence.github.io/cv/)
+    * working as a machine learning engineer at [Helpfeel](https://corp.helpfeel.com/ja/company)
 * **Pastime**
-    * [starting out to study Korean](/a/742216f0)
-    * reading Japanese books (currently:『漢字はコワくない』)
-    * having conversations in Japanese/listening in on Korean on [HelloTalk](https://www.hellotalk.com/) and [Tandem](https://tandem.net/)
-    * organizing a [monthly meetup](https://japanstammtisch.github.io/) for Japanese German exchange
+    * [board games games](/hobby#tabletopgames) (lately lots of Carcassonne, Bohnanza, and Malefitz)
+    * extended setup process after moving cross-continent
+    * catching up on work-in-progress and planned parts of personal (tech) projects
 
 ‌
 
