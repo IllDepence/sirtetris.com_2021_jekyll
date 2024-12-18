@@ -400,7 +400,7 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 * tabletop games
 * sharing economy, collaborative consumption, crowdsourcing
 * i18n/l10n
-* speedcubung ([WCA](http://www.worldcubeassociation.org/results/p.php?i=2013SAIE02))
+* speedcubung ([WCA](https://www.worldcubeassociation.org/persons/2013SAIE02))
 * geocaching
 * physical security (see [lock picking](#lockpicking))
 * psychology (introductory class in 2013/14; social psy. + work and organizational psy. in 2016/17, educational psychology in 2017)
