@@ -1,0 +1,33 @@
+---
+layout: null
+---
+# {{ site.url }}
+
+{%- for item in site.data.nav_items -%}
+    {%- for page in site.pages -%}
+        {%- assign basename = page.path | split: "/" | last | split: "." | first -%}
+        {% if item == basename %}
+
+## {{ item }}
+* URL: {{ item | prepend: "/" | prepend: site.url }}
+            {% assign lines = page.content | markdownify | strip_html | newline_to_br | split: "<br />" -%}
+            {%- for line in lines -%}
+                {%- assign line_length = line | strip | size -%}
+                {%- if line_length > 1 %}
+{{ line | newline_to_br | strip_newlines | remove: "<br />" | rstrip }}
+                {%- endif -%}
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endfor %}
+
+## blog posts
+{%- for post in site.posts %}
+### {{ post.title }}
+
+* posted on {{ post.date }}
+* URL: {{ post.url | prepend: site.url }}
+* tags: {{ post.tags | join: ", " }}
+
+{{ post.content | markdownify | strip_html }}
+{%- endfor -%}
