@@ -37,8 +37,7 @@
 
 {% if current_page != "index" %}
   <nav>
-  {% assign nav_items = "blog|hobby|projects|now|about" | split: "|" %}
-  {% for item in nav_items %}
+  {% for item in site.data.nav_items %}
     {% if item == current_page %}
       <a href="/{{ item }}" class="active">{{ item }}</a>
     {% else %}
