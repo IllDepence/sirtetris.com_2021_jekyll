@@ -27,13 +27,13 @@ In Korean, letters are constructed from consonant and vowel components. For exam
 Fun things happen when the madness of human driven writing systems is reflected in rigid structures of technological standards, like Unicode.
 
 * [Unicode contains “ghost characters“](https://en.wikipedia.org/wiki/Ghost_characters)
-* The Unicode block [CJK Compatibility](https://graphemica.com/blocks/cjk-compatibility) contains the names units of measurements and other terms in single characters in Japanese. For example, ㍌ reads “mega” in the upper line and “ton” below. (Here are some cryptic shenanigans with the [“kumimoji”](https://github.com/IllDepence/goyoukumimoji).)
+* The Unicode block [CJK Compatibility](https://graphemica.com/blocks/cjk-compatibility) contains units of measurements and other terms in single characters in Japanese. For example, ㍌ reads “mega” in the upper line and “ton” below. (Here are some cryptic shenanigans with these [“kumimoji”](https://github.com/IllDepence/goyoukumimoji).)
 * [Punycode](https://en.wikipedia.org/wiki/Punycode) is a fun character encoding used e.g. in non-Latin alphabet domain names.
 
 ### Books
 
 * [Writing Systems of the World](https://www.goodreads.com/book/show/534188.Writing_Systems_of_the_World) (Japanese original: [世界の文字](https://shokado.nacos.com/books/?p=454))  
-  A nice overview of the types of writing systems allover the world, which explanations and example images of e.g. newspapers.
+  A nice overview of the types of writing systems allover the world, with explanations and example images of e.g. newspapers.
 * [Because Internet](https://gretchenmcculloch.com/book/)  
   On how real time written communication is a novel phenomenon enabled by the internet.
 * [ユニコード戦記](https://www.tdupress.jp/book/b350011.html)  
@@ -112,7 +112,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 * [/r/LearnJapanese](http://www.reddit.com/r/LearnJapanese/)'s [wiki](http://www.reddit.com/r/LearnJapanese/wiki/index)
 * [Tofugu’s 100 Best Resources For Learning Japanese](http://www.tofugu.com/2010/04/06/tofugu-100-best-japanese-learning-resources/)
 * [Japanese FAQ](http://www.sljfaq.org/afaq/afaq.html) (from the usenet newsgroup sci.lang.japan)
-* [all japanese all the time TOC](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency)
+* [all japanese all the time TOC](http://web.archive.org/web/20220910084810/http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/)
 * [Japanese pitch accent resources](https://github.com/olety/japanese-pitch-accent-resources)
 
 #### Guides
@@ -122,7 +122,7 @@ Appetizer: NativLang's [three](https://www.youtube.com/watch?v=bcdYKxHT8kY) [par
 * [An Introduction to Japanese; Syntax, Grammar & Language](http://grammar.nihongoresources.com/) (free, extensive grammar guide)
 * [TextFugu](http://www.textfugu.com/) (free *only* up to the point where you'd start learning kanji)
 * [Japanese Pronunciation for Communication (Waseda University)](https://www.edx.org/course/japanese-pronunciation-for-communication) (free, pronunciation guide)
-* [Pronunciation: Speaking with Fluency (Waseda University)](http://course-channel.waseda.jp/subject/contents/9204B34014/01/92) (free, pronunciation guide)
+* [Pronunciation: Speaking with Fluency (Waseda University)](http://web.archive.org/web/20201201000944/http://course-channel.waseda.jp/subject/contents/9204B34014/01/92) (free, pronunciation guide)
 <!-- * [Tofugu's writings on learning](http://www.tofugu.com/tag/learning/) -->
 
 #### Use
