@@ -95,6 +95,120 @@ Below some more general points.
 
 <!-- sep -->
 
+# Knowledge curation<span id="knowledge"></span>
+*wikiwiki*
+
+![](assets/img/interests/knowledge.png)
+
+I maintain a personal wiki in the form of interlinked Markdown files, synced between desktop and mobile via Git. Currently [Obsidian](https://obsidian.md/) serves as the editor/viewer. Previously I used [gitit](https://github.com/jgm/gitit) (desktop only).
+
+At work, I have experienced two quite dissimilar wiki cultures.
+* [Semantic MediaWiki](https://www.semantic-mediawiki.org) (2019 — 2024)
+    * High upfront cost (for defining and implementing a data model)
+    * Some degree of [inference](https://www.semantic-mediawiki.org/wiki/Help:Inferencing) of implicit knowledge
+    * Open source
+    * My experience
+        * worked well to organize a research group
+        * editing and reading happen at different times / you “store” knowledge that is “retrieved” at some later point in time
+        * [page forms syntax](https://www.mediawiki.org/wiki/Extension:Page_Forms/Defining_forms) gave me headaches
+* [Cosense](https://scrapbox.io/product) (2024 — now)
+    * Superb for real time collaboration
+    * Somewhat challenging to keep information up to date/synced across a wiki
+    * Closed source; requires Google account
+    * My experience
+        * works great as the knowledge base of a remote-first organization
+        * feels like everyone’s notepads amagamate into a living system
+        * fun to use
+
+Meat sack storage: use [Anki](http://ankisrs.net/) to prevent data loss.
+
+<!-- sep -->
+
+# Parkour<span id="parkour"></span>
+*“Recontextualizing public urban space as a playground instead of something merely functional.”* ([Source](https://soundcloud.com/officialsxsw/hacking-language-bots-if-and-esolangs-sxsw-interactive-2016))
+
+![](assets/img/interests/parkour.jpg)
+
+Just look for people in your area doing parkour. In [my experience](/a/5fd38d56) such groups are extremely supportive towards newcomers. If you can't find anyone to train with, start on your own — you might [find followers](assets/img/interests/parkour2.jpg) soon. :D
+
+To get an idea of what parkour is, watch [People in Motion](https://www.youtube.com/watch?v=QH09YCtpKaw). tl;dw: it's playing with one's environment by moving around.
+
+Shameless brag: I used to do [double kongs](assets/img/interests/parkour.gif).
+
+<!-- sep -->
+
+# Slacklining<span id="slacklining"></span>
+*&#124;—————————&#124;*
+
+![](assets/img/interests/slackline.gif)
+
+<!--
+# Karuta<span id="karuta"></span>
+*難波津に…*
+
+![](assets/img/interests/karuta.jpg)
+
+[Karuta](http://en.wikipedia.org/wiki/Karuta) is a Japanese loanword originally from Portuguese (“carta”) and a term used to describe several types of Japanese card games. A particularly interesting group of aforementioned is called uta-garuta and often based on the poem collection [Ogura Hyakunin Isshu](https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu) by [Fujiwara no Teika](http://en.wikipedia.org/wiki/Fujiwara_no_Teika). [Kyōgi karuta](http://en.wikipedia.org/wiki/Competitive_karuta) is the competitive version of uta-garuta.
+
+If you want to get an overview of karuta-type games and more detailed information feel free to have a look at [this info page](http://moc.sirtetris.com/karuta/) I created. A brief peak into kyōgi karuta right here:
+
+An English version of the rules of kyōgi karuta can be found [here](http://karuta.game.coocan.jp/simplerule-e.html). Further useful resources:
+
+* [Japan Karuta Association](http://www.karuta.or.jp/) (up-to-date information about tournaments)
+* [World of Kyogi Karuta](http://karuta.game.coocan.jp/index.html)
+* [Hyakunin Isshu overview with english translations](http://etext.virginia.edu/japanese/hyakunin/index.html)
+
+To get an idea of how kyōgi karuta looks like:  
+[Highlights from the 2014 championship final](https://www.youtube.com/watch?v=HUbXBcD2m6E)
+
+Even more goodies:
+
+* [the flickr account](https://secure.flickr.com/photos/nzkka/) of the New Zealand Karuta Association
+* [a nice essay](http://www.asahi-net.or.jp/~xs3d-bull/essays/karuta/karuta.html) about kyōgi karuta
+* on the off chance you’re interested in 下の句かるた, try checking out [BOOK OFF](https://www.bookoff.co.jp/) and [HARD OFF](https://www.hardoff.co.jp/) stores in Hokkaidō. In 2023 I got found [nice set](assets/img/interests/simonokukaruta.jpg) with wooden “cards” in Sapporo that way.
+
+‌  
+A fun way to learn more about the world of karuta would be reading the manga [Chihayafuru](http://en.wikipedia.org/wiki/Chihayafuru) or watching the anime adaptaion.
+-->
+
+<!-- sep -->
+
+# Penspinning<span id="penspinning"></span>
+*Contact juggling with pens!*
+
+![](assets/img/interests/ps.jpg)
+
+Giving penspinning a try couldn't be easier. Grab a more or less balanced pen, look at a video tutorial online and practice &mdash; that's it.  
+It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning ~~is the [UPSB](http://upsb.info/), I guess~~ that I know of appears to have gone inactive. Most countries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
+
+Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE), [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc), [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
+
+I, personally, started penspinning in 2007 and actively pursued it — i.e. took my time to practice, look out for new tricks to learn, etc. — for maybe a year and a half. After that it's been casual ever since. I barely try or practice new stuff ... but it's still a lot of fun and I don't plan to stop. :)
+
+#### Some of my recordings
+
+* [BakFall Session 3](https://www.youtube.com/watch?v=DHDyYK-nPIA)
+* [Copy clip](https://www.youtube.com/watch?v=shhumscxa0s)
+* [Freestyle](https://www.youtube.com/watch?v=mGnMcw7IM9I)
+
+<!-- sep -->
+
+# Keyboards<span id="keyboards"></span>
+*High quality input devices. :3*
+
+![](assets/img/interests/keyboards.jpg)
+
+In terms of mechnaical keyboards, I used to use a SteelSeries 7G (MX Black) &rarr; a Leopold FC500RT/AB (MX Brown) &rarr; a KBC Poker (MX Blue) &rarr; a Vortex CORE (MX Blue, depicted above).
+
+Over the years though, ThinkPads made me a sucker for trackpoints, which is why I currently use a ThinkPad TrackPoint Keyboard II as my daily driver, and occasionaly switch to a HHKB Studio.
+
+Random tidbits:
+* [Thumb-shift keyboards](https://en.wikipedia.org/wiki/Thumb-shift_keyboard) are an interesting concept
+* Status LEDs of a keyboard are controlled by the computer ([docs.qmk.fm](https://docs.qmk.fm/features/led_indicators#host-keyboard-led-state), [wiki.osdev.org](https://wiki.osdev.org/USB_Human_Interface_Devices#LED_lamps)), meaning they can be [used as a side channel](https://github.com/DarkMetalMouse/ardiuno-keystroke-reflection) to exfiltrate information
+* The literature sources for the German Wikipedia article [Flick-Input](https://de.wikipedia.org/wiki/Flick-Input) once sent me on a [quest to one of the world’s largest libraries](/a/2cea3972#:~:text=I%20decided%20to%20write%20a%20German%20Wikipedia%20article)
+
+<!-- sep -->
+
 # Japanese<span id="japanese"></span>
 *orz*
 
@@ -204,121 +318,6 @@ My personal Japanese progress has it's own place in the [projects section](/proj
 
 <!-- sep -->
 
-# Parkour<span id="parkour"></span>
-*“Recontextualizing public urban space as a playground instead of something merely functional.”* ([Source](https://soundcloud.com/officialsxsw/hacking-language-bots-if-and-esolangs-sxsw-interactive-2016))
-
-![](assets/img/interests/parkour.jpg)
-
-Just look for people in your area doing parkour. In [my experience](/a/5fd38d56) such groups are extremely supportive towards newcomers. If you can't find anyone to train with, start on your own — you might [find followers](assets/img/interests/parkour2.jpg) soon. :D
-
-To get an idea of what parkour is, watch [People in Motion](https://www.youtube.com/watch?v=QH09YCtpKaw). tl;dw: it's playing with one's environment by moving around.
-
-Shameless brag: I used to do [double kongs](assets/img/interests/parkour.gif).
-
-<!-- sep -->
-
-# Slacklining<span id="slacklining"></span>
-*&#124;—————————&#124;*
-
-![](assets/img/interests/slackline.gif)
-
-<!--
-# Karuta<span id="karuta"></span>
-*難波津に…*
-
-![](assets/img/interests/karuta.jpg)
-
-[Karuta](http://en.wikipedia.org/wiki/Karuta) is a Japanese loanword originally from Portuguese (“carta”) and a term used to describe several types of Japanese card games. A particularly interesting group of aforementioned is called uta-garuta and often based on the poem collection [Ogura Hyakunin Isshu](https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu) by [Fujiwara no Teika](http://en.wikipedia.org/wiki/Fujiwara_no_Teika). [Kyōgi karuta](http://en.wikipedia.org/wiki/Competitive_karuta) is the competitive version of uta-garuta.
-
-If you want to get an overview of karuta-type games and more detailed information feel free to have a look at [this info page](http://moc.sirtetris.com/karuta/) I created. A brief peak into kyōgi karuta right here:
-
-An English version of the rules of kyōgi karuta can be found [here](http://karuta.game.coocan.jp/simplerule-e.html). Further useful resources:
-
-* [Japan Karuta Association](http://www.karuta.or.jp/) (up-to-date information about tournaments)
-* [World of Kyogi Karuta](http://karuta.game.coocan.jp/index.html)
-* [Hyakunin Isshu overview with english translations](http://etext.virginia.edu/japanese/hyakunin/index.html)
-
-To get an idea of how kyōgi karuta looks like:  
-[Highlights from the 2014 championship final](https://www.youtube.com/watch?v=HUbXBcD2m6E)
-
-Even more goodies:
-
-* [the flickr account](https://secure.flickr.com/photos/nzkka/) of the New Zealand Karuta Association
-* [a nice essay](http://www.asahi-net.or.jp/~xs3d-bull/essays/karuta/karuta.html) about kyōgi karuta
-* on the off chance you’re interested in 下の句かるた, try checking out [BOOK OFF](https://www.bookoff.co.jp/) and [HARD OFF](https://www.hardoff.co.jp/) stores in Hokkaidō. In 2023 I got found [nice set](assets/img/interests/simonokukaruta.jpg) with wooden “cards” in Sapporo that way.
-
-‌  
-A fun way to learn more about the world of karuta would be reading the manga [Chihayafuru](http://en.wikipedia.org/wiki/Chihayafuru) or watching the anime adaptaion.
--->
-
-<!-- sep -->
-
-# Penspinning<span id="penspinning"></span>
-*Contact juggling with pens!*
-
-![](assets/img/interests/ps.jpg)
-
-Giving penspinning a try couldn't be easier. Grab a more or less balanced pen, look at a video tutorial online and practice &mdash; that's it.  
-It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning ~~is the [UPSB](http://upsb.info/), I guess~~ that I know of appears to have gone inactive. Most countries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
-
-Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE), [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc), [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
-
-I, personally, started penspinning in 2007 and actively pursued it — i.e. took my time to practice, look out for new tricks to learn, etc. — for maybe a year and a half. After that it's been casual ever since. I barely try or practice new stuff ... but it's still a lot of fun and I don't plan to stop. :)
-
-#### Some of my recordings
-
-* [BakFall Session 3](https://www.youtube.com/watch?v=DHDyYK-nPIA)
-* [Copy clip](https://www.youtube.com/watch?v=shhumscxa0s)
-* [Freestyle](https://www.youtube.com/watch?v=mGnMcw7IM9I)
-
-<!-- sep -->
-
-# Knowledge curation<span id="knowledge"></span>
-*wikiwiki*
-
-![](assets/img/interests/knowledge.png)
-
-I maintain a personal wiki in the form of interlinked Markdown files, synced between desktop and mobile via Git. Currently [Obsidian](https://obsidian.md/) serves as the editor/viewer. Previously I used [gitit](https://github.com/jgm/gitit) (desktop only).
-
-At work, I have experienced two quite dissimilar wiki cultures.
-* [Semantic MediaWiki](https://www.semantic-mediawiki.org) (2019 — 2024)
-    * High upfront cost (for defining and implementing a data model)
-    * Some degree of [inference](https://www.semantic-mediawiki.org/wiki/Help:Inferencing) of implicit knowledge
-    * Open source
-    * My experience
-        * worked well to organize a research group
-        * editing and reading happen at different times / you “store” knowledge that is “retrieved” at some later point in time
-        * [page forms syntax](https://www.mediawiki.org/wiki/Extension:Page_Forms/Defining_forms) gave me headaches
-* [Cosense](https://scrapbox.io/product) (2024 — now)
-    * Superb for real time collaboration
-    * Somewhat challenging to keep information up to date/synced across a wiki
-    * Closed source; requires Google account
-    * My experience
-        * works great as the knowledge base of a remote-first organization
-        * feels like everyone’s notepads amagamate into a living system
-        * fun to use
-
-Meat sack storage: use [Anki](http://ankisrs.net/) to prevent data loss.
-
-<!-- sep -->
-
-# Keyboards<span id="keyboards"></span>
-*High quality input devices. :3*
-
-![](assets/img/interests/keyboards.jpg)
-
-In terms of mechnaical keyboards, I used to use a SteelSeries 7G (MX Black) &rarr; a Leopold FC500RT/AB (MX Brown) &rarr; a KBC Poker (MX Blue) &rarr; a Vortex CORE (MX Blue, depicted above).
-
-Over the years though, ThinkPads made me a sucker for trackpoints, which is why I currently use a ThinkPad TrackPoint Keyboard II as my daily driver, and occasionaly switch to a HHKB Studio.
-
-Random tidbits:
-* [Thumb-shift keyboards](https://en.wikipedia.org/wiki/Thumb-shift_keyboard) are an interesting concept
-* Status LEDs of a keyboard are controlled by the computer ([docs.qmk.fm](https://docs.qmk.fm/features/led_indicators#host-keyboard-led-state), [wiki.osdev.org](https://wiki.osdev.org/USB_Human_Interface_Devices#LED_lamps)), meaning they can be [used as a side channel](https://github.com/DarkMetalMouse/ardiuno-keystroke-reflection) to exfiltrate information
-* The literature sources for the German Wikipedia article [Flick-Input](https://de.wikipedia.org/wiki/Flick-Input) once sent me on a [quest to one of the world’s largest libraries](/a/2cea3972#:~:text=I%20decided%20to%20write%20a%20German%20Wikipedia%20article)
-
-
-<!-- sep -->
-
 # (Urban) Exploration<span id="exploration"></span>
 *Because it's there.*
 
@@ -409,7 +408,6 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 * linux
 * free and open-source
 * it security
-* tabletop games
 * sharing economy, collaborative consumption, crowdsourcing
 * i18n/l10n
 * speedcubung ([WCA](https://www.worldcubeassociation.org/persons/2013SAIE02))
@@ -420,7 +418,6 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 * flourishing ([2009](assets/img/interests/flourishing.gif))
 * [freestyle slalom](https://youtu.be/0289Ome76Qg)
 * tricking
-* typography
 
 <!-- split -->
 
@@ -428,13 +425,13 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 
 * [Letters](#letters)
 * [Tabletop Games](#tabletopgames)
-* [Japanese](#japanese)
+* [Knowledge curation](#knowledge)
 * [Parkour](#parkour)
 * [Slacklining](#slacklining)
 <!--* [Karuta](#karuta)-->
 * [Penspinning](#penspinning)
-* [Knowledge curation](#knowledge)
-* [Mechanical keyboards](#keyboards)
+* [Keyboards](#keyboards)
+* [Japanese](#japanese)
 * [(Urban) Exploration](#exploration)
 * [Lock picking](#lockpicking)
 * [Speedrunning](#speedrunning)
