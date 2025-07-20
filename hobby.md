@@ -60,7 +60,7 @@ Fun things happen when the madness of human driven writing systems is reflected 
 
 ![](assets/img/interests/games.jpg)
 
-I grew up with Settlers of Catan, and in my twenties found Carcassonne as a second “all-time favorite”. I also *really* like “Stadt, Land, Fluss”, the German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29). Below some pointers and personal projects regarding games.
+I grew up with Settlers of Catan, and in my twenties found Carcassonne as a second “all-time favorite”. I also *really* like “Stadt, Land, Fluss”, the German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29). Below are some pointers and personal projects regarding games.
 
 * **Catan**
     * [The fair Catan board quest](https://www.boardgameanalysis.com/the-fair-catan-board-quest/)  
@@ -273,37 +273,49 @@ I, personally, started penspinning in 2007 and actively pursued it — i.e. took
 
 <!-- sep -->
 
-# Self-management<span id="management"></span>
-*Information, time, habits, health, ...*
+# Knowledge curation<span id="knowledge"></span>
+*wikiwiki*
 
-![](assets/img/interests/infotime.png)
+![](assets/img/interests/knowledge.png)
 
-Ever since the podcast [Hello Internet](http://www.hellointernet.fm/) popped into existence [CGP Grey](http://www.cgpgrey.com/) seems to me like a figure to aspire to with regard to self-management but ... I'm not an Apple user, so no OmniFocus for me. Jests aside, here's some relevant stuff:
+I maintain a personal wiki in the form of interlinked Markdown files, synced between desktop and mobile via Git. Currently [Obsidian](https://obsidian.md/) serves as the editor/viewer. Previously I used [gitit](https://github.com/jgm/gitit) (desktop only).
 
-#### A personal wiki
-In order to organize information I use ~~[gitit](https://github.com/jgm/gitit)~~ [Obsidian](https://obsidian.md/), which I sync between desktop and mobile via Git.
+At work, I have experienced two quite dissimilar wiki cultures.
+* [Semantic MediaWiki](https://www.semantic-mediawiki.org) (2019 — 2024)
+    * High upfront cost (for defining and implementing a data model)
+    * Some degree of [inference](https://www.semantic-mediawiki.org/wiki/Help:Inferencing) of implicit knowledge
+    * Open source
+    * My experience
+        * worked well to organize a research group
+        * editing and reading happen at different times / you “store” knowledge that is “retrieved” at some later point in time
+        * [page forms syntax](https://www.mediawiki.org/wiki/Extension:Page_Forms/Defining_forms) gave me headaches
+* [Cosense](https://scrapbox.io/product) (2024 — now)
+    * Superb for real time collaboration
+    * Somewhat challenging to keep information up to date/synced across a wiki
+    * Closed source; requires Google account
+    * My experience
+        * works great as the knowledge base of a remote-first organization
+        * feels like everyone’s notepads amagamate into a living system
+        * fun to use
 
-#### Memorize stuff (SRS)
-[Anki](http://ankisrs.net/) — ever since I set out to learn 2000+ Japanese characters. Have something that you'd like to memorize efficiently and forever? SRS!
-
-#### Misc
-* GitHub for code and configs
-* Phone set to black and white for reduced addictiveness
-* ~~[HabitRPG](https://habitrpg.com/)~~ stopped using it after a few months once the novelty factor wore off
+Meat sack storage: use [Anki](http://ankisrs.net/) to prevent data loss.
 
 <!-- sep -->
 
-# Mechanical keyboards<span id="keyboards"></span>
+# Keyboards<span id="keyboards"></span>
 *High quality input devices. :3*
 
-![](assets/img/interests/mechkb.png)
+![](assets/img/interests/keyboards.jpg)
 
-Most keyboards today are so called [rubber dome](http://deskthority.net/wiki/Rubber_dome) or [scissor switch](http://deskthority.net/wiki/Scissor_switch) keyboards. They're cheap to produce and do their job. There are, however, other types of keyboards which in general are referred to as *mechanical keyboards*.
+In terms of mechnaical keyboards, I used to use a SteelSeries 7G (MX Black) &rarr; a Leopold FC500RT/AB (MX Brown) &rarr; a KBC Poker (MX Blue) &rarr; a Vortex CORE (MX Blue, depicted above).
 
-The exact mechanisms of how mechanical keyboard switches work differ from each other. In most cases the switches of one vendor have colored stems which give them their name and indicate their tactile and acoustic behaviour. More information can be found in the [deskthority wiki](http://deskthority.net/wiki/Category:Keyboard_switches).  
-The reason for most people to use a mechanical keyboard is the higher quality and durability, the fact that you can choose a swich type that fits your “taste” the best and generally the more comfortable feeling when typing. If you're interested in the topic be sure to check out  [deskthority.net](http://deskthority.net/), [/r/MechanicalKeyboards](http://www.reddit.com/r/MechanicalKeyboards/) and [geekhack.org](http://geekhack.org/).
+Over the years though, ThinkPads made me a sucker for trackpoints, which is why I currently use a ThinkPad TrackPoint Keyboard II as my daily driver, and occasionaly switch to a HHKB Studio.
 
-Personally I use a Vortex CORE with Cherry MX Blue switches and before that in reverse chronological order used a KBC Poker (MX Blues), Leopold FC500RT/AB (MX Browns) and a SteelSeries 7G (MX Blacks).
+Random tidbits:
+* [Thumb-shift keyboards](https://en.wikipedia.org/wiki/Thumb-shift_keyboard) are an interesting concept
+* Status LEDs of a keyboard are controlled by the computer ([docs.qmk.fm](https://docs.qmk.fm/features/led_indicators#host-keyboard-led-state), [wiki.osdev.org](https://wiki.osdev.org/USB_Human_Interface_Devices#LED_lamps)), meaning they can be [used as a side channel](https://github.com/DarkMetalMouse/ardiuno-keystroke-reflection) to exfiltrate information
+* The literature sources for the German Wikipedia article [Flick-Input](https://de.wikipedia.org/wiki/Flick-Input) once sent me on a [quest to one of the world’s largest libraries](/a/2cea3972#:~:text=I%20decided%20to%20write%20a%20German%20Wikipedia%20article)
+
 
 <!-- sep -->
 
@@ -421,7 +433,7 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 * [Slacklining](#slacklining)
 <!--* [Karuta](#karuta)-->
 * [Penspinning](#penspinning)
-* [Self-management](#management)
+* [Knowledge curation](#knowledge)
 * [Mechanical keyboards](#keyboards)
 * [(Urban) Exploration](#exploration)
 * [Lock picking](#lockpicking)
