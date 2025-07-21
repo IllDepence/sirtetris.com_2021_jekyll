@@ -3,7 +3,7 @@ layout: split
 ---
 
 # Context
-*The world is full of interesting things to be discovered, learned, practiced. As one searches for new input, seeing what others are doing can be a source of inspiration, and advice from someone already into a specific thing can be of great help. Therefore I'd like to share what keeps me moving, learning, living and offer hints and resources for the potentially interested.*
+*The world is full of interesting things to be discovered, learned, practiced. As one searches for new input, seeing what others are doing can be a source of inspiration, and advice from someone more experienced can be of great help. Therefore I'd like to share what keeps me moving, learning, living, and offer hints and resources for the potentially interested.*
 
 Apart from what’s shown here, be sure to also check out [the webring](https://webring.xxiivv.com/) linked at the bottom of the page.
 
@@ -77,7 +77,7 @@ I grew up with Settlers of Catan, and in my twenties found Carcassonne as a seco
       A work in progress web implementation of Stadt, Land, Fluss where extra points are given based on the order of player answers per category.
 
 ‌  
-Below some more general points.
+Some more general things:
 
 * Events I like
     * [Schwarzwälder Spieletage](https://mounty.de/) (Furtwangen, Germany)
@@ -173,23 +173,25 @@ A fun way to learn more about the world of karuta would be reading the manga [Ch
 
 <!-- sep -->
 
-# Penspinning<span id="penspinning"></span>
-*Contact juggling with pens!*
+# Fancy fidgeting<span id="fidgeting"></span>
+*🖊, 🎲, 🃏*
 
 ![](assets/img/interests/ps.jpg)
 
-Giving penspinning a try couldn't be easier. Grab a more or less balanced pen, look at a video tutorial online and practice &mdash; that's it.  
-It is, of course, more fun when you also get involved with the community. The largest international board on the topic of penspinning ~~is the [UPSB](http://upsb.info/), I guess~~ that I know of appears to have gone inactive. Most countries also have their own board/community. Try to look out for gatherings. It's most fun when you meet other spinners in person and talk to them. :)
+**Pen spinning**
+* Not sure where exchange happens these days. Forums from back then [don’t seem to exist anymore](https://www.wiki.fenspinner.net/index.php/Modern_International_Community). :(
+* Had a total blast with the [German Penspinning Community](assets/img/interests/gpc.jpg) between 2007 and 2012. &lt;3  
+* Some of my recordings: [BakFall Session 3](https://www.youtube.com/watch?v=DHDyYK-nPIA) / [Freestyle](https://www.youtube.com/watch?v=mGnMcw7IM9I) / [Copy clip](https://www.youtube.com/watch?v=shhumscxa0s)
+* People that actually know what they’re doing: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE) / [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc) / [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
 
-Here's some viewing material: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE), [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc), [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
+**Speedcubung**
+* You can find local competitions at the [World Cupe Association](https://www.worldcubeassociation.org/)
+* I once [participated in one](https://www.worldcubeassociation.org/persons/2013SAIE02)
+* Some of my recordings: [3x3 in 33 seconds](https://www.youtube.com/watch?v=AI63Md4cZCE) / [Mastermorphix](https://www.youtube.com/watch?v=URz6XdYJdqw)
 
-I, personally, started penspinning in 2007 and actively pursued it — i.e. took my time to practice, look out for new tricks to learn, etc. — for maybe a year and a half. After that it's been casual ever since. I barely try or practice new stuff ... but it's still a lot of fun and I don't plan to stop. :)
-
-#### Some of my recordings
-
-* [BakFall Session 3](https://www.youtube.com/watch?v=DHDyYK-nPIA)
-* [Copy clip](https://www.youtube.com/watch?v=shhumscxa0s)
-* [Freestyle](https://www.youtube.com/watch?v=mGnMcw7IM9I)
+**Flourishing**
+* “Shuffling for grownups”
+* [Gave it a try in 2009](assets/img/interests/flourishing.gif)
 
 <!-- sep -->
 
@@ -410,12 +412,9 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 * it security
 * sharing economy, collaborative consumption, crowdsourcing
 * i18n/l10n
-* speedcubung ([WCA](https://www.worldcubeassociation.org/persons/2013SAIE02))
 * geocaching
 * physical security (see [lock picking](#lockpicking))
-* psychology (introductory class in 2013/14; social psy. + work and organizational psy. in 2016/17, educational psychology in 2017)
 * social engineering (psychology, physical security, it security, ...)
-* flourishing ([2009](assets/img/interests/flourishing.gif))
 * [freestyle slalom](https://youtu.be/0289Ome76Qg)
 * tricking
 
@@ -429,7 +428,7 @@ Stuff that I was into, want to get into, am into but lack usable content to pres
 * [Parkour](#parkour)
 * [Slacklining](#slacklining)
 <!--* [Karuta](#karuta)-->
-* [Penspinning](#penspinning)
+* [Fidgeting](#fidgeting)
 * [Keyboards](#keyboards)
 * [Japanese](#japanese)
 * [(Urban) Exploration](#exploration)
