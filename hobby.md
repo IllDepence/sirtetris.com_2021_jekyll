@@ -185,7 +185,7 @@ A fun way to learn more about the world of karuta would be reading the manga [Ch
 * People that actually know what they’re doing: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE) / [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc) / [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
 
 **Speedcubung**
-* You can find local competitions at the [World Cupe Association](https://www.worldcubeassociation.org/)
+* You can find local competitions at the [World Cube Association](https://www.worldcubeassociation.org/)
 * I once [participated in one](https://www.worldcubeassociation.org/persons/2013SAIE02)
 * Some of my recordings: [3x3 in 33 seconds](https://www.youtube.com/watch?v=AI63Md4cZCE) / [Mastermorphix](https://www.youtube.com/watch?v=URz6XdYJdqw)
 
