@@ -9,8 +9,8 @@ layout: split
 * **Work**
     * working as a machine learning engineer at [Helpfeel](https://corp.helpfeel.com/ja/company)
 * **Pastime**
-    * [board games](/hobby#tabletopgames) (lately lots of Carcassonne, Bohnanza, and Malefitz)
-    * extended setup process after moving cross-continent
+    * [board games](/hobby#tabletopgames)
+    * studying Korean at a snail’s pace
     * catching up on work-in-progress and planned parts of personal (tech) projects
 
 ‌
