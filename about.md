@@ -20,17 +20,31 @@ Alternatively use [ProtonMail](https://protonmail.com/) and reach me at <span id
 
 <!-- split -->
 
-## DOGE
-<span style="font-family: monospace; font-size: 9px;">DCBZu7SZEQzVhNwiv9bdiSEiZPnoWqXX3S</span>
+<!-- ## DOGE -->
+<!-- <span style="font-family: monospace; font-size: 9px;">DCBZu7SZEQzVhNwiv9bdiSEiZPnoWqXX3S</span> -->
+
+## Good folks
+
+* [Lucas](https://lcsrg.me/)
+* [Max](https://makkusu.dev/)
+* [Nicholas](https://nicpopovic.com/)
+* [Nishiyama-san](https://yudainishiyama.com/)
+<!-- * [Eric](http://erics.bplaced.de/) domain expired -->
+<!-- * [Michael](http://www.goodchapy.com/) domain expired -->
+<!-- * [Wolfgang](http://vehk.de/) domain expired -->
+<!-- * [Fabian](http://www.smrrd.de/) domain expired -->
+<!-- * [Jonas](https://jonasw.de/) domain expired -->
 
 <!-- sep -->
 
-## いい<br>&thinsp;&nbsp;人
-* [Annette](http://penguinlyawesome.tumblr.com)
-* [Duc-Ha](http://coldbloodedness.blogspot.com)
-<!-- * [Eric](http://erics.bplaced.de/) domain expired? -->
-<!-- * [Michael](http://www.goodchapy.com/) domain expired? -->
-<!-- * [Wolfgang](http://vehk.de/) domain expired? -->
+## Cool strangers
+
+* [Christian Horn](https://fluxcoil.net/)
+* [Emma Goto](https://www.emgoto.com/)
+* [Paul McCann](https://www.dampfkraft.com/)
+* [Tom 7](http://tom7.org/)
+* [rhiaro](https://rhiaro.co.uk/)
+* more: [xxiivv](https://webring.xxiivv.com/)
 
 <!-- sep -->
 
