@@ -157,7 +157,7 @@ Timeline |<!-- this makes the table work -->
 ##### <br>
 ### Progress<span id="jp-ex-progress"></span>
 ‌  
-![](assets/img/projects/explore_jp_17.jpg)
+![](assets/img/projects/explore_jp_18.jpg)
 ‌  
 
 Timeline |<!-- this makes the table work -->
@@ -183,6 +183,7 @@ Timeline |<!-- this makes the table work -->
 22/10/17 | two day trip to 軽井沢 (長野県)
 23/03/29 | entered Japan through 札幌 (北海道)
 25/04/19 | day trip to 和歌山
+25/10/25 | trip to 伊勢 (三重県)
 
 <!-- sep -->
 
