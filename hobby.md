@@ -91,7 +91,7 @@ Some more general things:
     * [漢字博士No.1［特製］](https://ba2u2.com/kanji/01.html)
     * [漢字博士No.2](https://ba2u2.com/kanji/03.html)
     * [任天堂謹製 小倉百人一首 都錦](https://www.nintendo.co.jp/others/hyakuninisshu/index.html)
-    * [下の句歌留多協会](http://www.shimonokukaruta.com/) from [ワダガング](http://www.wadagangu.co.jp/)
+    * [下の句歌留多](http://www.shimonokukaruta.com/) from [ワダガング](http://www.wadagangu.co.jp/)
 
 <!-- sep -->
 
