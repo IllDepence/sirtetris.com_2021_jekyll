@@ -157,7 +157,7 @@ Timeline |<!-- this makes the table work -->
 ##### <br>
 ### Progress<span id="jp-ex-progress"></span>
 ‌  
-![](assets/img/projects/explore_jp_18.jpg)
+![](assets/img/projects/explore_jp_19.jpg)
 ‌  
 
 Timeline |<!-- this makes the table work -->
@@ -176,6 +176,7 @@ Timeline |<!-- this makes the table work -->
 18/01/10 | day trip to 埼玉県
 18/04/21 | quick trip to 琵琶湖 (滋賀県)
 18/04/30 | attended ニコニコ超会議 in 千葉県
+18/06/06 | visited 富士急ハイランド park in 山梨県
 19/06/21 | quick trip to 神戸 (兵庫県)
 19/06/22 | quick trip to 奈良 (奈良県)
 20/03/19 | four day trip to 鹿児島県
@@ -183,7 +184,7 @@ Timeline |<!-- this makes the table work -->
 22/10/17 | two day trip to 軽井沢 (長野県)
 23/03/29 | entered Japan through 札幌 (北海道)
 25/04/19 | day trip to 和歌山
-25/10/25 | trip to 伊勢 (三重県)
+25/10/25 | two day trip to 伊勢 (三重県)
 
 <!-- sep -->
 
