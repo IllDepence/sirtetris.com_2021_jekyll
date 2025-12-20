@@ -71,8 +71,10 @@ I grew up with Settlers of Catan, and in my twenties found Carcassonne as a seco
     * [Citétris de Carcassonne](https://github.com/IllDepence/citetris-de-carcassonne)  
       A work in progress implementation of Tetris with Carcassonne tiles.
 * **Stadt, Land, Fluss**
+    * [Seit wann gibt es Stadt, Land, Fluss?](https://illdepence.github.io/slf-origins/)  
+      Research project to determine the origin of Stadt, Land, Fluss.
     * [Stadt, Land, Fluss Kategoriekarten](https://github.com/IllDepence/slf_category_cards)  
-      Card designs for choosing categories in a game of Stadt, Land, Fluss (the German equivalent of the word game [categories](https://en.wikipedia.org/wiki/Categories_%28word_game%29)).
+      Card designs for choosing categories in a game of Stadt, Land, Fluss.
     * [Stadt, Land, Fluss Web](https://github.com/IllDepence/slf_web)  
       A work in progress web implementation of Stadt, Land, Fluss where extra points are given based on the order of player answers per category.
 
