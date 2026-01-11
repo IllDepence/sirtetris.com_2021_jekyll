@@ -181,7 +181,7 @@ A fun way to learn more about the world of karuta would be reading the manga [Ch
 ![](assets/img/interests/ps.jpg)
 
 **Pen spinning**
-* Not sure where exchange happens these days. Forums from back then [don’t seem to exist anymore](https://www.wiki.fenspinner.net/index.php/Modern_International_Community). :(
+* Not sure where exchange happens these days. Forums from back then [don’t seem to exist anymore](https://wiki.fenspinner.net/index.php/Modern_International_Community). :(
 * Had a total blast with the [German Penspinning Community](assets/img/interests/gpc.jpg) between 2007 and 2012. &lt;3  
 * Some of my recordings: [BakFall Session 3](https://www.youtube.com/watch?v=DHDyYK-nPIA) / [Freestyle](https://www.youtube.com/watch?v=mGnMcw7IM9I) / [Copy clip](https://www.youtube.com/watch?v=shhumscxa0s)
 * People that actually know what they’re doing: [Supawit](https://www.youtube.com/watch?v=Ug_D_jyOOmE) / [pyralux](https://www.youtube.com/watch?v=2EGFq-jvhFc) / [A13x](https://www.youtube.com/watch?v=5jaRrtGVc3A)
